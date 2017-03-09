@@ -1,1 +1,0 @@
-This is just a small filter list for uBlock

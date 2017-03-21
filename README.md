@@ -7,4 +7,7 @@ Hinzugefügt kann sie wiefolgt werden: https://github.com/gorhill/uBlock/wiki/Fi
 
 
 Ich empfehle dazu den Mediummode von uBlock Origin welcher wie hier eingestellt werden soll. https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode
-Auch hierfür stelle ich halbwegs getestete Settings bereit.
+Auch hierfür stelle ich halbwegs getestete Settings bereit. https://raw.githubusercontent.com/2g4y1/filterlist/master/my-ublock-dynamic-rule.txt
+
+
+Wer etwas dazu beitragen möchte, bitte nur ein Pull Request pro Website, da es ansonsten etwas kompliziert für mich wird.

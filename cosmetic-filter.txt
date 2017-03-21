@@ -1,0 +1,186 @@
+9gag.com###sidebar
+blogs.cisco.com###sidebar
+de.wowhead.com###sidebar-wrapper
+de.wowhead.com##.blocks
+de.wowhead.com##.zul-bar-stand-in
+drivers.softpedia.com###_wlts_lead
+drivers.softpedia.com##.adsbygoogle
+drivers.softpedia.com##.brd-1-grey1.mgtop_20.grid_48
+drivers.softpedia.com##.mgbot_20.ad-970x90.ad.grid_48
+drivers.softpedia.com##.mgbot_40.mgtop_10.grid_15
+edition.cnn.com###intl_homepage1-zone-4
+fahrplan.oebb.at###HFSResult > div:nth-of-type(5)
+fahrplan.oebb.at###HFSResult > div:nth-of-type(6)
+filehippo.com##.ad-unit-label
+filehippo.com##.home-right-col
+filehippo.com##.middle-column-leaderboard-ad-container
+geizhals.at###gh_blah
+kodi.tv###text-8
+kodi.tv##.wp_social_bookmarking_light
+kodi.tv##p:nth-of-type(5)
+kurier.at##.grid-block:nth-of-type(3) > .edge-right.edge-left.type-box.box-container > .ohidden.h125.w960.boxpart > .bannercontent
+kurier.at##.grid-partition:nth-of-type(3) > .grid-block:nth-of-type(1)
+kurier.at##.maincontainer > .grid-partition:nth-of-type(1) > .grid-block:nth-of-type(3)
+kurier.at##.maincontainer > .grid-partition:nth-of-type(1) > .grid-block:nth-of-type(4) > .edge-left.type-box.box-container
+libreelec.tv##.s2.sidebar
+monitoring-portal.org##.pageNavigation
+news.filehippo.com##.right_col.right.sidebar
+onepiece-tube.com###BB_SK_9574344858
+onepiece-tube.com##.module:nth-of-type(1) > div > div
+onepiece-tube.com##.module:nth-of-type(2) > div > div
+pr0gramm.com###gpt-rectangle-comments
+pr0gramm.com###gpt-skyscraper-left
+praxistipps.chip.de##.Article__Introvideo
+praxistipps.chip.de##.fb-col-lg-8.fb-col-md-8.Article__AdditionalContent
+praxistipps.chip.de##.fb-col-lg-8.fb-col-md-8.mt-md.Article__Intro
+praxistipps.chip.de##.mt-lg.fb-justify-center.fb
+praxistipps.chip.de##.mt-md.fb
+praxistipps.chip.de##.mt-md.fb-col-lg-4.fb-col-md-4.Article__Promo
+praxistipps.chip.de##.Vertical__Flyin
+t3n.de##.tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-recentarticles-news.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-digitale-gesellschaft.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-digitale-wirtschaft.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-e-commerce.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-entwicklung-design.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-gadgets-lifestyle.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-karriere.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-marketing.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-mobilitaet.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-software-infrastruktur.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-ressort-startups.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
+t3n.de##.tg-stage-sponsoredcontent.c-stage
+trakt.tv##.huckster-vip-info
+willmyphonework.net##.body-content.container > .row:nth-of-type(1)
+willmyphonework.net##.form-group:nth-of-type(5) > .col-md-offset-2.col-md-10
+willmyphonework.net##.hidden-sm.hidden-xs.col-sm-2.col-md-2
+www.4players.de###spiel-preisvergleich
+www.4players.de###stellenmarkt
+www.4players.de###werbung-banner
+www.4players.de##.anzeige
+www.allkeyshop.com###box-linkleft
+www.allkeyshop.com###box-linkright
+www.allkeyshop.com##.getsocial
+www.amazon.de###desktop-ad-atf
+www.androidfilehost.com##.col-md-4:nth-of-type(4) > .panel-default.panel
+www.androidfilehost.com##.responsiveMargin.col-md-4
+www.borncity.com###colophon
+www.borncity.com###primary
+www.chip.de##.SkinLight.Section:nth-of-type(2) > .Grid__Container.Section__Content
+www.cnet.de###div-gpt-ad-DESKTOP_MEGA-1
+www.cnet.de###div-gpt-ad-DESKTOP_MPU-1
+www.cnet.de##.dfp_word
+www.der-postillon.com###sidebar
+www.deskmodder.de###text-18
+www.deskmodder.de##.adsbygoogle
+www.deskmodder.de##.adsbygoogle:nth-of-type(2)
+www.elitepvpers.com###tickerwrapper
+www.elitepvpers.com##.cwheadad
+www.elitepvpers.com##center
+www.eporner.com###btasd
+www.eporner.com###cookies
+www.eporner.com##.vjs-inplayer-container
+www.facebook.com###pagelet_canvas_nav_content
+www.facebook.com###pagelet_ego_pane
+www.facebook.com##._1wcc
+www.facebook.com##._1wcd
+www.facebook.com##._4-u8._268y.cardRightCol._5v6e._4-u2
+www.facebook.com##._4ejc
+www.facebook.com##._4oes
+www.facebook.com##.s_1cxalzl477.pagelet.ego_column
+www.gamestar.de##.elemCont:nth-of-type(11)
+www.gamestar.de##.elemCont:nth-of-type(12)
+www.gamestar.de##.elemCont:nth-of-type(6)
+www.gamestar.de##.elemCont:nth-of-type(7)
+www.gamestar.de##.elemCont:nth-of-type(9)
+www.gmx.at###adRectangleBottom
+www.gmx.at###footer-bubble
+www.gmx.at###footer-sep-line
+www.gmx.at###promoline
+www.gmx.at###uim_1
+www.gmx.at###uim_2 > .r1
+www.gmx.at###uim_3 > .r1
+www.gmx.at###uim_4 > .r1
+www.gmx.at###uim_5 > .r1
+www.golem.de###iqadtile4
+www.golem.de##.adsbygoogle
+www.golem.de##.iqadlinebottom
+www.gutefrage.net###async_teaser_block_sidebar
+www.gutefrage.net##.Adsense__styleFrame2.Adsense
+www.gutefrage.net##.Adsense__styleFrame2.Adsense.align-center
+www.gutefrage.net##.marketing-teaser.is-hidden-mobile.gf-redesign.Block__secondary.Block
+www.hearthhead.com###homepage-atf
+www.hearthhead.com##.sidebar
+www.heise.de###mitte_rechts
+www.heise.de##.col-xs-4.stage-section:nth-of-type(1)
+www.heise.de##.mag-stage.row
+www.heise.de##.teaser_deal_des_tages
+www.heise.de##.teaser_hbs
+www.heute.at###pos_Skyscraper_links
+www.heute.at###pos_Skyscraper_rechts
+www.huffingtonpost.de###all_sponsored_posts
+www.huffingtonpost.de##.ad_spot
+www.huffingtonpost.de##.center.margin_10_0
+www.huffingtonpost.de##.likegate-overlay-hp
+www.krone.at##.c_sis_facebook_fancontainer_2x6 > .c_outer
+www.merkur.de###id-js-DocumentDetail > .id-Article-body > .p402_premium > .id-Article-content-item:nth-of-type(4)
+www.merkur.de##.id-Article-content-item:nth-of-type(34)
+www.merkur.de##.id-CookieConsent
+www.merkur.de##.id-g--oneCol.id-g:nth-of-type(1)
+www.merkur.de##.id-g:nth-of-type(3)
+www.merkur.de##.id-g:nth-of-type(4)
+www.mfbot.de###text-7
+www.mfbot.de##.adsense-leadout.adsense
+www.mmoga.de##.boxContent > div:nth-of-type(7) > div
+www.mmoga.de##.rightBoxContainer:nth-of-type(3) > .boxContent > div:nth-of-type(5) > div
+www.nachrichten.at###StartseiteSonderthema
+www.nachrichten.at##.sp4-middle.sp4
+www.oe24.at###oesterreichTabbedBox > .pushDownSidebar.sidebar
+www.oe24.at##.logoArea
+www.oe24.at##.marginBottom.marginTop.xlKonsole
+www.oe24.at##.marketingTeaserImage
+www.oe24.at##.politik.tabbedBox.row > .pushDownSidebar.sidebar
+www.opendisplaycase.de###c537
+www.opendisplaycase.de###infoline
+www.pc-magazin.de##.ad--google_adsense
+www.pc-magazin.de##.col-xs-push-3.col-xs-42 > .row
+www.pc-magazin.de##.container--content.container--fixedgrid.container > .row > .col-xs-48 > .row:nth-of-type(3) > .col-xs-48 > .row > main > .col-xs-32.maincol > .row > .teasergroup--maincol.teasergroup--landscape.teasergroup.col-xs-push-1.col-xs-46 > .teaser--inside-landscape.teaser.row:nth-of-type(1)
+www.pc-magazin.de##.pull-right.col-xs-16.sidecol > .row:nth-of-type(6)
+www.pc-magazin.de##.row:nth-of-type(7)
+www.pcwelt.de##.blank
+www.pcwelt.de##.box:nth-of-type(10)
+www.pcwelt.de##.box:nth-of-type(3)
+www.pcwelt.de##.box:nth-of-type(6)
+www.pcwelt.de##.box:nth-of-type(7)
+www.pcwelt.de##.box:nth-of-type(8)
+www.sysadminslife.com###text-3
+www.sysadminslife.com###text-7
+www.sysadminslife.com##.adsbygoogle
+www.taz.de###xid706590
+www.taz.de##.corp.ich.sect_zahl.sect.odd.last.first
+www.taz.de##.even.last.page.community.full > .head > .newsnavigation.navbar
+www.taz.de##.sectfoot
+www.techstage.de##.clearfix.adbottom
+www.techstage.de##.clearfix.rectangle_ad
+www.techstage.de##.rectangle_ad
+www.tips.at###sidebar > .banner
+www.tips.at##.mobile_banner_hide:nth-of-type(4)
+www.tv-media.at###ad-top
+www.tv-media.at###cookieModal
+www.tv-media.at##.fb-artikel-box > .ym-gl.linearize-level-1.ym-g960-3
+www.tv-media.at##.stage-widget.sidebar-ads-wrapper.ym-gl.linearize-level-1.ym-g960-3
+www.vice.com##.article__embed--iframely.article__embed:nth-of-type(2) > div
+www.willhaben.at###adition_ContentAd
+www.willhaben.at###tower
+www.wirelesshack.org###sfp_page_plugin_widget-2
+www.yahoo.com###my-adsLREC-base
+www.yahoo.com###sticky-lrec2-footer
+www.youporn.com##.clearfix.tKhjd5wDIFy
+www.youporn.com##.promo-message
+www.youporn.com##.row.watchContent.watchVideo > .four-column
+www.youporn.com##footer
+www.zdnet.de###pageads_top
+www.zdnet.de##.desktop.dfp_ad
+xiaomi.eu##.hiddenResponsiveNarrow
+xiaomi.eu##.sharePage.infoBlock.section
+

@@ -1,3 +1,6 @@
+!Fehler bitte hier melden https://github.com/2g4y1/filterlist/issues
+!Kosmetische Filterliste für uBlock Origin
+!Liste erstellt 20:05 21.03.2017
 [Adblock]
 9gag.com###sidebar
 blogs.cisco.com###sidebar
@@ -31,30 +34,19 @@ onepiece-tube.com##.module:nth-of-type(1) > div > div
 onepiece-tube.com##.module:nth-of-type(2) > div > div
 pr0gramm.com###gpt-rectangle-comments
 pr0gramm.com###gpt-skyscraper-left
+pr0gramm.com###gpt-skyscraper-right
 praxistipps.chip.de##.Article__Introvideo
+praxistipps.chip.de##.Vertical__Flyin
 praxistipps.chip.de##.fb-col-lg-8.fb-col-md-8.Article__AdditionalContent
 praxistipps.chip.de##.fb-col-lg-8.fb-col-md-8.mt-md.Article__Intro
 praxistipps.chip.de##.mt-lg.fb-justify-center.fb
 praxistipps.chip.de##.mt-md.fb
 praxistipps.chip.de##.mt-md.fb-col-lg-4.fb-col-md-4.Article__Promo
-praxistipps.chip.de##.Vertical__Flyin
-t3n.de##.tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-recentarticles-news.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-digitale-gesellschaft.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-digitale-wirtschaft.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-e-commerce.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-entwicklung-design.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-gadgets-lifestyle.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-karriere.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-marketing.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-mobilitaet.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-software-infrastruktur.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-ressort-startups.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
-t3n.de##.tg-stage-sponsoredcontent.c-stage
 trakt.tv##.huckster-vip-info
 willmyphonework.net##.body-content.container > .row:nth-of-type(1)
 willmyphonework.net##.form-group:nth-of-type(5) > .col-md-offset-2.col-md-10
 willmyphonework.net##.hidden-sm.hidden-xs.col-sm-2.col-md-2
+www.3dsiso.com##.facebooklike
 www.4players.de###spiel-preisvergleich
 www.4players.de###stellenmarkt
 www.4players.de###werbung-banner
@@ -73,9 +65,12 @@ www.cnet.de###div-gpt-ad-DESKTOP_MPU-1
 www.cnet.de##.dfp_word
 www.der-postillon.com###sidebar
 www.deskmodder.de###text-18
+www.deskmodder.de###text-31
 www.deskmodder.de##.adsbygoogle
 www.deskmodder.de##.adsbygoogle:nth-of-type(2)
 www.elitepvpers.com###tickerwrapper
+www.elitepvpers.com##.cw1h
+www.elitepvpers.com##.cwcontentad
 www.elitepvpers.com##.cwheadad
 www.elitepvpers.com##center
 www.eporner.com###btasd
@@ -89,11 +84,20 @@ www.facebook.com##._4-u8._268y.cardRightCol._5v6e._4-u2
 www.facebook.com##._4ejc
 www.facebook.com##._4oes
 www.facebook.com##.s_1cxalzl477.pagelet.ego_column
+www.g2a.com##.active.jq-head-bar-sofort.mp-head-bar-orange.mp-head-bar
+www.g2a.com##.mp-head-giftcard
 www.gamestar.de##.elemCont:nth-of-type(11)
 www.gamestar.de##.elemCont:nth-of-type(12)
 www.gamestar.de##.elemCont:nth-of-type(6)
 www.gamestar.de##.elemCont:nth-of-type(7)
 www.gamestar.de##.elemCont:nth-of-type(9)
+www.glaciergaming.co.uk##div:nth-of-type(10) > table:nth-of-type(2)
+www.glaciergaming.co.uk##table:nth-of-type(2) > tbody > tr > td:nth-of-type(2)
+www.glaciergaming.co.uk##table:nth-of-type(2) > tbody > tr > td:nth-of-type(3)
+www.glaciergaming.co.uk##table:nth-of-type(2) > tbody > tr > td:nth-of-type(4)
+www.glaciergaming.co.uk##table:nth-of-type(4)
+www.glaciergaming.co.uk##td:nth-of-type(3) > table:nth-of-type(2)
+www.glaciergaming.co.uk##td:nth-of-type(3) > table:nth-of-type(3)
 www.gmx.at###adRectangleBottom
 www.gmx.at###footer-bubble
 www.gmx.at###footer-sep-line
@@ -103,9 +107,11 @@ www.gmx.at###uim_2 > .r1
 www.gmx.at###uim_3 > .r1
 www.gmx.at###uim_4 > .r1
 www.gmx.at###uim_5 > .r1
+www.golem.de###csi_art1
 www.golem.de###iqadtile4
 www.golem.de##.adsbygoogle
 www.golem.de##.iqadlinebottom
+www.golem.de##.iqadlinetop
 www.gutefrage.net###async_teaser_block_sidebar
 www.gutefrage.net##.Adsense__styleFrame2.Adsense
 www.gutefrage.net##.Adsense__styleFrame2.Adsense.align-center
@@ -123,6 +129,7 @@ www.huffingtonpost.de###all_sponsored_posts
 www.huffingtonpost.de##.ad_spot
 www.huffingtonpost.de##.center.margin_10_0
 www.huffingtonpost.de##.likegate-overlay-hp
+www.iobit.com##.wrapper > a[href^="http://www.iobit.com/downloadcenter.php"]
 www.krone.at##.c_sis_facebook_fancontainer_2x6 > .c_outer
 www.merkur.de###id-js-DocumentDetail > .id-Article-body > .p402_premium > .id-Article-content-item:nth-of-type(4)
 www.merkur.de##.id-Article-content-item:nth-of-type(34)
@@ -154,6 +161,8 @@ www.pcwelt.de##.box:nth-of-type(3)
 www.pcwelt.de##.box:nth-of-type(6)
 www.pcwelt.de##.box:nth-of-type(7)
 www.pcwelt.de##.box:nth-of-type(8)
+www.reddit.com##.side > .spacer:nth-of-type(3)
+www.reddit.com##.spacer:nth-of-type(7)
 www.sysadminslife.com###text-3
 www.sysadminslife.com###text-7
 www.sysadminslife.com##.adsbygoogle
@@ -184,4 +193,3 @@ www.zdnet.de###pageads_top
 www.zdnet.de##.desktop.dfp_ad
 xiaomi.eu##.hiddenResponsiveNarrow
 xiaomi.eu##.sharePage.infoBlock.section
-

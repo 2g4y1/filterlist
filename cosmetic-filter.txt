@@ -1,3 +1,4 @@
+[Adblock]
 9gag.com###sidebar
 blogs.cisco.com###sidebar
 de.wowhead.com###sidebar-wrapper

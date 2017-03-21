@@ -1,0 +1,2 @@
+# filterlist
+Filterlist for ublock

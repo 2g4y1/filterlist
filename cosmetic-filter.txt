@@ -5,12 +5,6 @@
 9gag.com###sidebar
 blogs.cisco.com###sidebar
 community.spiceworks.com##.community-content-banner
-de.pdf24.org##.adsbygoogle
-de.pdf24.org##.adtext
-de.pdf24.org##.tc.adtext
-de.wowhead.com###sidebar-wrapper
-de.wowhead.com##.blocks
-de.wowhead.com##.zul-bar-stand-in
 dmm.travel###ad-leaderboard
 dmm.travel###ad-skyscraper
 dmm.travel##.right-ad
@@ -43,6 +37,9 @@ news.filehippo.com##.right_col.right.sidebar
 onepiece-tube.com###BB_SK_9574344858
 onepiece-tube.com##.module:nth-of-type(1) > div > div
 onepiece-tube.com##.module:nth-of-type(2) > div > div
+pdf24.org##.adsbygoogle
+pdf24.org##.adtext
+pdf24.org##.tc.adtext
 pr0gramm.com###gpt-rectangle-comments
 pr0gramm.com###gpt-skyscraper-left
 praxistipps.chip.de##.Article__Introvideo
@@ -69,6 +66,9 @@ trakt.tv##.huckster-vip-info
 willmyphonework.net##.body-content.container > .row:nth-of-type(1)
 willmyphonework.net##.form-group:nth-of-type(5) > .col-md-offset-2.col-md-10
 willmyphonework.net##.hidden-sm.hidden-xs.col-sm-2.col-md-2
+wowhead.com###sidebar-wrapper
+wowhead.com##.blocks
+wowhead.com##.zul-bar-stand-in
 www.4players.de###spiel-preisvergleich
 www.4players.de###stellenmarkt
 www.4players.de###werbung-banner

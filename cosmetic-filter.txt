@@ -5,6 +5,9 @@
 9gag.com###sidebar
 blogs.cisco.com###sidebar
 community.spiceworks.com##.community-content-banner
+de.pdf24.org##.adsbygoogle
+de.pdf24.org##.adtext
+de.pdf24.org##.tc.adtext
 de.wowhead.com###sidebar-wrapper
 de.wowhead.com##.blocks
 de.wowhead.com##.zul-bar-stand-in
@@ -81,6 +84,7 @@ www.androidfilehost.com##.responsiveMargin.col-md-4
 www.borncity.com###colophon
 www.borncity.com###primary
 www.chip.de##.SkinLight.Section:nth-of-type(2) > .Grid__Container.Section__Content
+www.chip.de##.videoplayer
 www.cnet.de###div-gpt-ad-DESKTOP_MEGA-1
 www.cnet.de###div-gpt-ad-DESKTOP_MPU-1
 www.cnet.de##.dfp_word

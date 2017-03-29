@@ -1,0 +1,297 @@
+{
+  "timeStamp": 1490811307073,
+  "version": "1.11.4",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "alwaysDetachLogger": false,
+    "autoUpdate": true,
+    "cloudStorageEnabled": true,
+    "collapseBlocked": true,
+    "colorBlindFriendly": false,
+    "contextMenuEnabled": true,
+    "dynamicFilteringEnabled": true,
+    "externalLists": "http://malwareurls.joxeankoret.com/normal.txt\nhttps://adguard.com/en/filter-rules.html?id=6\nhttps://easylist-downloads.adblockplus.org/adwarefilters.txt\nhttps://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt\nhttps://raw.githubusercontent.com/2g4y1/filterlist/master/cosmetic-filter.txt\nhttps://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt\nhttps://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt\nhttps://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt",
+    "firewallPaneMinimized": true,
+    "hyperlinkAuditingDisabled": true,
+    "ignoreGenericCosmeticFilters": true,
+    "largeMediaSize": 50,
+    "parseAllABPHideFilters": true,
+    "prefetchingDisabled": true,
+    "requestLogMaxEntries": 1000,
+    "showIconBadge": true,
+    "tooltipsDisabled": false,
+    "webrtcIPAddressHidden": false
+  },
+  "selectedFilterLists": [
+    "https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt",
+    "https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt",
+    "https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt",
+    "https://easylist-downloads.adblockplus.org/adwarefilters.txt",
+    "https://adguard.com/en/filter-rules.html?id=6",
+    "https://raw.githubusercontent.com/2g4y1/filterlist/master/cosmetic-filter.txt",
+    "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt",
+    "http://malwareurls.joxeankoret.com/normal.txt",
+    "VIE-0",
+    "TUR-0",
+    "SWE-0",
+    "SVN-0",
+    "spa-0",
+    "RUS-0",
+    "RUS-1",
+    "RUS-2",
+    "POL-1",
+    "POL-0",
+    "NLD-0",
+    "LVA-0",
+    "LTU-0",
+    "KOR-1",
+    "KOR-0",
+    "KOR-2",
+    "JPN-0",
+    "ITA-0",
+    "ITA-1",
+    "ISR-0",
+    "ISL-0",
+    "IDN-0",
+    "HUN-0",
+    "GRC-0",
+    "FRA-0",
+    "FIN-0",
+    "EU-prebake",
+    "EST-0",
+    "DNK-0",
+    "DEU-0",
+    "CZE-0",
+    "CHN-0",
+    "CHN-1",
+    "CHN-2",
+    "BGR-0",
+    "ara-0",
+    "fanboy-social",
+    "fanboy-annoyance",
+    "fanboy-thirdparty_social",
+    "spam404-0",
+    "disconnect-malware",
+    "malware-2",
+    "malware-1",
+    "malware-0",
+    "disconnect-malvertising",
+    "fanboy-enhanced",
+    "easyprivacy",
+    "disconnect-tracking",
+    "easylist",
+    "reek-0",
+    "awrl-0",
+    "ublock-unbreak",
+    "ublock-privacy",
+    "ublock-badware",
+    "ublock-filters",
+    "user-filters"
+  ],
+  "hiddenSettingsString": "assetFetchTimeout 30\nautoUpdateAssetFetchPeriod 120\nautoUpdatePeriod 7\nignoreRedirectFilters false\nignoreScriptInjectFilters false\nmanualUpdateAssetFetchPeriod 2000\npopupFontSize unset\nsuspendTabsUntilReady false",
+  "netWhitelist": "about-scheme\nbehind-the-scene\nloopconversation.about-scheme\nmoz-extension-scheme\nopera-scheme\nvivaldi-scheme",
+  "dynamicFilteringString": "* * 3p-script block\n* * 3p-frame block\n* accounts.google.com * allow\n* ajax.cloudflare.com * allow\n* ajax.googleapis.com * allow\n* apis.google.com * allow\n* aspnetcdn.com * allow\n* cdn.jsdelivr.net * allow\n* cloudflare.com * allow\n* cloudfront.net * allow\n* filehippo.com * allow\n* fontawesome.com * allow\n* fonts.adobe.com * allow\n* fonts.googleapis.com * allow\n* fonts.net * allow\n* gstatic.com * allow\n* hello.myfonts.net * allow\n* jquery.com * allow\n* maps.googleapis.com * allow\n* translate.google.com * allow\n* translate.googleapis.com * allow\n* translate.googleusercontent.com * allow\n* typekit.net * allow\n* youtube.com * allow\n127.0.0.1 * * allow\n9gag.com 9cache.com * allow\n9gag.com 9gag.com * allow\naccount.nvidia.com nvidia.com * allow\naccount.xiaomi.com * inline-script allow\naccount.xiaomi.com * 3p allow\naccount.xiaomi.com google.at * allow\naccounts.google.com gstatic.com * allow\naceinsight.websense.com websense.com * allow\nanswers.microsoft.com microsoft.com * allow\nat.linkedin.com licdn.com * allow\nat.linkedin.com linkedin.com * allow\nbanking.raiffeisen.at info.elba.at * allow\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * 3p noop\nblogs.cisco.com cisco.com * allow\nblogs.vmware.com shrinktheweb.com * allow\nblogs.vmware.com vmware.com * allow\nblogs.vmware.com vmwareblogs.com * allow\nblogs.windows.com microsoft.com * allow\nboerse.to boerse.to * allow\nboerse.to directupload.net * allow\nboerse.to imageshack.us * allow\nbuy.garmin.com garmin.com * allow\nbuy.garmin.com garmincdn.com * allow\ncart.gearbest.com gearbest.com * allow\ncdburnerxp.se cdburnerxp.se * allow\nclipchamp.com clipchamp.com * allow\nde.engadget.com aolcdn.com * allow\nde.engadget.com blogsmithmedia.com * allow\nde.engadget.com cdn.komentary.aol.com * allow\nde.engadget.com engadget.com * allow\nde.pdf24.org pdf24.org * allow\nde.wikipedia.org wikimedia.org * allow\nde.wikipedia.org wikipedia.org * allow\nde.wowhead.com wowhead.com * allow\nde.wowhead.com zam.com * allow\nde.wowhead.com zamimg.com * allow\ndecentsecurity.com squarespace.com * allow\ndevelopers.google.com google-developers.appspot.com * allow\ndiepresse.com diepresse.com * allow\ndietagespresse.com tagespresse.dietagespresse.netdna-cdn.com * allow\ndmm.travel dmm.travel * allow\ndownload.lineageos.org cloudflare.com * allow\ndownloadcenter.intel.com intel.com * allow\ndragonball-tube.com ani-stream.com * allow\ndragonball-tube.com chatango.com * allow\ndragonball-tube.com dragonball-tube.com * allow\ndragonball-tube.com jwpcdn.com * allow\ndragonball-tube.com jwplatform.com * allow\ndragonball-tube.com jwpsrv.com * allow\ndragonball-tube.com s3.amazonaws.com * allow\nduolingo.com duolingo.com * allow\nebay.de ebay.de * allow\nebay.de ebaystatic.com * allow\neety.at sofort.com * allow\neety.at sofortueberweisung.de * allow\neety.at verisign.com * allow\neety.at wirecard.com * allow\nfahrplan.oebb.at oebb.at * allow\nfairytail-tube.org ani-stream.com * allow\nfairytail-tube.org fairytail-tube.org * allow\nfairytail-tube.org jwpcdn.com * allow\nfairytail-tube.org jwplatform.com * allow\nfairytail-tube.org jwpsrv.com * allow\nfairytail-tube.org s3.amazonaws.com * allow\nfilebox.fhooecloud.at fhooecloud.at * allow\nflipboard.com * inline-script allow\nflipboard.com * 1p-script allow\nflipboard.com google.at * allow\nflipboard.com google.com * allow\nforum.xda-developers.com * inline-script allow\nforum.xda-developers.com * 1p-script allow\nforum.xda-developers.com google.com * allow\nforum.xda-developers.com xda-cdn.com * allow\nforum.xda-developers.com xda-developers.com * allow\nforums.galaxy-of-heroes.starwars.ea.com ea.com * allow\nfuturezone.at futurezone.at * allow\nfuturezone.at kurier.at * allow\nfuturezone.at pinpoll.com * allow\ngeizhals.at geizhals.at * allow\ngeizhals.at gzhls.at * allow\ngithub.com github.com * allow\ngithub.com render.githubusercontent.com * allow\nhp.com hp.com * allow\nhp.com www8-hp.com * allow\nimmobilienscout24.at immobilienscout24.at * allow\nimmobilienscout24.at static-immobilienscout24.de * allow\njedipedia.wikia.com * image allow\njedipedia.wikia.com nocookie.net * allow\njedipedia.wikia.com wikia.com * allow\nkeepass.info keepass.info * allow\nkernel.org kernel.org * allow\nkodi.tv kodi.tv * allow\nlibreelec.tv libreelec.tv * allow\nlineageos.org lineageos.org * allow\nlineageos.org maxcdn.bootstrapcdn.com * allow\nlogin.gearbest.com gearbest.com * allow\nlogin.gearbest.com icss1.gearbest.com * allow\nlogin.gearbest.com login.gearbest.com * allow\nmail.google.com google.com * allow\nmail.google.com gstatic.com * allow\nmark0.net mark0.net * allow\nmesg.ebay.de ebay.de * allow\nmy.kaspersky.com kaspersky.com * allow\nnaruto-tube.org ani-stream.com * allow\nnaruto-tube.org jwpcdn.com * allow\nnaruto-tube.org jwplatform.com * allow\nnaruto-tube.org jwpsrv.com * allow\nnaruto-tube.org naruto-tube.org * allow\nnaruto-tube.org s3.amazonaws.com * allow\nnews.filehippo.com * inline-script allow\nnews.filehippo.com * 1p-script allow\nnews.filehippo.com technews.wpengine.netdna-cdn.com * allow\nnextcloud.com nextcloud.com * allow\nonepiece-tube.com ani-stream.com * allow\nonepiece-tube.com jwpcdn.com * allow\nonepiece-tube.com jwplatform.com * allow\nonepiece-tube.com jwpsrv.com * allow\nonepiece-tube.com onepiece-tube.com * allow\nonepiece-tube.com s3.amazonaws.com * allow\noneplus.net opstatics.com * allow\nopengapps.org gstatic.com * allow\nopengapps.org opengapps.org * allow\nopengapps.org storage.googleapis.com * allow\noutlook.live.com live.com * allow\nowncloud.org owncloud.org * allow\nplay.google.com * 3p-script noop\nplugins.loxberry.de loxberry.de * allow\nplus.google.com google.com * allow\npr0gramm.com pr0gramm.com * allow\npraxistipps.chip.de ad-js.chip.de * allow\npsngames.org cloudflare.com * allow\npsngames.org psngames.org * allow\ns6.sfgame.de * inline-script allow\ns6.sfgame.de * 1p-script allow\ns6.sfgame.de playa-games.com * allow\ns6.sfgame.de sfgame.de * allow\nsignin.ebay.de * inline-script allow\nsignin.ebay.de * 1p-script allow\nsignin.ebay.de ebay-us.com * allow\nsignin.ebay.de ebay.de * allow\nsignin.ebay.de paypal.com * allow\nsignin.ebay.de usllpic0-d6ea85882aab05f6ed5140047d1cf12718292cb3-sac.d.aa.online-metrix.net * allow\nsoundcloud.com sndcdn.com * allow\nsoundcloud.com soundcloud.com * allow\nsource.android.com android.com * allow\nsupport.microsoft.com gfx.ms * allow\nsupport.microsoft.com microsoft.com * allow\ntoolslib.net toolslib.net * allow\ntrakt.tv * inline-script allow\ntrakt.tv * 1p-script allow\ntrakt.tv * 3p-script noop\ntrakt.tv * 3p-frame noop\ntrakt.tv trakt.tv * allow\ntrakt.tv walter.trakt.tv * allow\ntwitter.com twimg.com * allow\ntwitter.com twitter.com * allow\ntypekit.com adobe.com * allow\ntypekit.com typekit.com * allow\ntypekit.com typekit.net * allow\nuploaded.net micropayment.ch * allow\nuploaded.net micropayment.de * allow\nuploaded.net uploaded.net * allow\nuploaded.net wlop.io * allow\nuploaded.net ywlpg.net * allow\nuser.gearbest.com gearbest.com * allow\nuser.gearbest.com icss1.gearbest.com * allow\nuser.gearbest.com user.gearbest.com * allow\nvimeo.com vimeo.com * allow\nvimeo.com vimeocdn.com * allow\nwikileaks.org wikileaks.org * allow\nwww.3dsiso.com 3dsiso.com * allow\nwww.a1.net a1.net * allow\nwww.adobe.com adobe.com * allow\nwww.adobe.com adobelogin.com * allow\nwww.airsquirrels.com airsquirrels.com * allow\nwww.aldi-sued.de aldi-sued.de * allow\nwww.amazon.com * image allow\nwww.amazon.com amazon.com * allow\nwww.amazon.com ssl-images-amazon.com * allow\nwww.amazon.de amazon.com * allow\nwww.amazon.de amazon.de * allow\nwww.amazon.de media-amazon.com * allow\nwww.amazon.de ssl-images-amazon.com * allow\nwww.androguider.com cloudflare.com * allow\nwww.android.com google.com * allow\nwww.androidfilehost.com androidfilehost.com * allow\nwww.arte.tv arte.tv * allow\nwww.attac.at attac.at * allow\nwww.audacityteam.org audacity.audio * allow\nwww.audacityteam.org audacityteam.org * allow\nwww.autoscout24.at autoscout24.at * allow\nwww.autoscout24.at autoscout24.com * allow\nwww.avast.com avast.com * allow\nwww.bbc.com bbc.co.uk * allow\nwww.bbc.com bbc.com * allow\nwww.bbc.com bbci.co.uk * allow\nwww.bergfex.at bergfex.at * allow\nwww.bergfex.at bergfex.com * allow\nwww.bing.com bing.com * allow\nwww.bmf.gv.at bmf.gv.at * allow\nwww.borncity.com borncity.com * allow\nwww.bosch.at bosch.at * allow\nwww.bosch.at bosch.com * allow\nwww.buffalo-technology.de buffalo-technology.de * allow\nwww.buffed.de buffed.de * allow\nwww.bundlestars.com bundlestars.com * allow\nwww.c-and-a.com adobedtm.com * allow\nwww.c-and-a.com c-and-a.com * allow\nwww.cert.at cert.at * allow\nwww.change.org * image allow\nwww.change.org change.org * allow\nwww.checkpoint.com checkpoint.com * allow\nwww.chip.de * image allow\nwww.chip.de chip.de * allow\nwww.cineplexx.at * inline-script allow\nwww.cineplexx.at * 1p-script allow\nwww.cineplexx.at apa.at * allow\nwww.cineplexx.at cineplexx.at * allow\nwww.cineplexx.at jwpcdn.com * allow\nwww.cineplexx.at jwpltx.com * allow\nwww.cineplexx.at jwpsrv.com * allow\nwww.cisco.com cisco.com * allow\nwww.cisco.com static-cisco.com * allow\nwww.cloudflare.com cloudflare.com * allow\nwww.computerbild.de * image allow\nwww.computerbild.de computer-bild.de * allow\nwww.computerbild.de computerbild.de * allow\nwww.conrad.at conrad.at * allow\nwww.dell.com dell.com * allow\nwww.dell.com dellcdn.com * allow\nwww.deskmodder.de * inline-script allow\nwww.deskmodder.de * 1p-script allow\nwww.deskmodder.de deskmodder.de * allow\nwww.deskmodder.de www.deskmodder.de * allow\nwww.dict.cc dict.cc * allow\nwww.dm-drogeriemarkt.at dm-drogeriemarkt.at * allow\nwww.douglas.at douglas-shop.com * allow\nwww.douglas.at douglas.at * allow\nwww.douglas.at douglas.de * allow\nwww.drei.at drei.at * allow\nwww.dvdvideosoft.com dvdvideosoft.com * allow\nwww.e-control.at e-control.at * allow\nwww.e-tec.at e-tec.at * allow\nwww.ebay.de * image allow\nwww.ebay.de ebay.de * allow\nwww.eduscho.at eduscho.at * allow\nwww.eduscho.at tchibo-content.de * allow\nwww.eety.at animate.adobe.com * allow\nwww.eizo.at eizo.at * allow\nwww.elitepvpers.com elitepvpers.com * allow\nwww.elitepvpers.com epvpimg.com * allow\nwww.elitepvpers.com i.epvpimg.com * allow\nwww.facebook.com www.facebook.com * allow\nwww.flytron.com flytron.com * allow\nwww.forensit.com forensit.com * allow\nwww.forum-raspberrypi.de forum-raspberrypi.de * allow\nwww.futurezone.de futurezone.de * allow\nwww.g2a.com g2a.com * allow\nwww.gamestar.de gamestar.de * allow\nwww.garmin.com garmincdn.com * allow\nwww.gearbest.com css.gearbest.com * allow\nwww.gearbest.com gloimg.gearbest.com * allow\nwww.gearbest.com mailcache.gearbest.com * allow\nwww.gearbest.com uidesign.gearbest.com * allow\nwww.gearbest.com www.gearbest.com * allow\nwww.gebrauchtwagen.at gebrauchtwagen.at * allow\nwww.giga.de cloudflare.com * allow\nwww.giga.de giga-video.de * allow\nwww.giga.de jwpcdn.com * allow\nwww.glaciergaming.co.uk glaciergaming.co.uk * allow\nwww.gmx.at gmx.at * allow\nwww.gmx.at js.ui-portal.de * allow\nwww.gmx.at ui-portal.de * allow\nwww.gog.com gog.com * allow\nwww.golem.de video.golem.de * allow\nwww.golem.de www.golem.de * allow\nwww.google.at google.com * allow\nwww.google.at gstatic.com * allow\nwww.google.at notifications.google.com * allow\nwww.google.at ssl.gstatic.com * allow\nwww.google.at www.google.at * allow\nwww.gq-magazin.de gq-magazin.de * allow\nwww.gutefrage.net gutefrage.net * allow\nwww.heise-gruppe.de heise.de * allow\nwww.heise.de * image allow\nwww.heise.de heise.de * allow\nwww.heise.de jwpcdn.com * allow\nwww.heise.de prophet.heise.de * allow\nwww.heise.de www.heise.de * allow\nwww.hervis.at azureedge.net * allow\nwww.hervis.at hervis.at * allow\nwww.heute.at heute.at * allow\nwww.hm.com hm.com * allow\nwww.hofer.at hofer.at * allow\nwww.hornbach.at hornbach.at * allow\nwww.hpe.com hpe.com * allow\nwww.humanic.net humanic.net * allow\nwww.humblebundle.com akamaihd.net * allow\nwww.humblebundle.com humblebundle.com * allow\nwww.ikea.com ikea.com * allow\nwww.imdb.com imdb.com * allow\nwww.ingamers.com ingamers.com * allow\nwww.intersport.at intersport.at * allow\nwww.iobit.com iobit.com * allow\nwww.joomla.de joomla.de * allow\nwww.joomla.de joomladay.de * allow\nwww.karriere.at kcdn.at * allow\nwww.kaspersky.com kaspersky.com * allow\nwww.kickstarter.com kickstarter.com * allow\nwww.krone.at krone.at * allow\nwww.krone.at www.adternal.com * block\nwww.lagerhaus.at lagerhaus.at * allow\nwww.lieferservice.at lieferservice.at * allow\nwww.loxforum.com loxforum.com * allow\nwww.loxwiki.eu loxwiki.eu * allow\nwww.mediamarkt.at appdynamics.com * allow\nwww.mediamarkt.at mediamarkt.at * allow\nwww.mediamarkt.at ms-daten.at * allow\nwww.mediamarkt.at redblue.de * allow\nwww.meinbezirk.at meinbezirk.at * allow\nwww.mfbot.de mfbot.de * allow\nwww.mi.com appmifile.com * allow\nwww.microsoft.com c.s-microsoft.com * allow\nwww.microsoft.com microsoft.com * allow\nwww.microsoft.com s-microsoft.com * allow\nwww.milka.at milka.at * allow\nwww.mjam.net * inline-script allow\nwww.mjam.net * 1p-script allow\nwww.mjam.net mjam.net * allow\nwww.mjam.net newrelic.com * allow\nwww.moemax.at moemax.at * allow\nwww.moemax.at moemax.de * allow\nwww.mueller-drogerie.at mueller-drogerie.at * allow\nwww.mysn.de mysn.de * allow\nwww.nachrichten.at nachrichten.at * allow\nwww.notebooksbilliger.de notebooksbilliger.de * allow\nwww.nvidia.de nvidia.de * allow\nwww.obi.at obi.at * allow\nwww.oebb.at oebb.at * allow\nwww.opendisplaycase.de opendisplaycase.de * allow\nwww.openoffice.org openoffice.org * allow\nwww.opensubtitles.org opensubtitles.org * allow\nwww.ownedcore.com ownedcore.com * allow\nwww.parrot.com parrot.com * allow\nwww.patches-scrolls.de patches-scrolls.de * allow\nwww.paypal.com paypal.com * allow\nwww.paypal.com paypalobjects.com * allow\nwww.pc-magazin.de pc-magazin.de * allow\nwww.pcwelt.de apester.com * allow\nwww.pcwelt.de pcwelt.de * allow\nwww.pearl.at * image allow\nwww.pearl.at pearl.at * allow\nwww.peek-cloppenburg.at fidcdn.net * allow\nwww.penny.at penny.at * allow\nwww.piriform.com piriform.com * allow\nwww.prosieben.at 7tv.de * allow\nwww.prosieben.at p7s1.com * allow\nwww.prosieben.at prosieben.at * allow\nwww.raiffeisen.at elba.at * allow\nwww.raiffeisen.at raiffeisen.at * allow\nwww.raspberrypi.org raspberrypi.org * allow\nwww.real.de real-ident.de * allow\nwww.real.de real-onlineshop.de * allow\nwww.reddit.com redditstatic.com * allow\nwww.rtl2.de rtl2.de * allow\nwww.samsung.com samsung.com * allow\nwww.sat1.at 7tv.de * allow\nwww.sat1.at p7s1.com * allow\nwww.sat1.at sat1.at * allow\nwww.saturn.at redblue.de * allow\nwww.saturn.at saturn.at * allow\nwww.spar.at spar.at * allow\nwww.sparkasse.at sparkasse.at * allow\nwww.sport2000.at sport2000.at * allow\nwww.spotify.com d2c87l0yth4zbw-2.global.ssl.fastly.net * allow\nwww.spotify.com d2c87l0yth4zbw.global.ssl.fastly.net * allow\nwww.spotify.com spotify.com * allow\nwww.symantec.com symantec.com * allow\nwww.sysadminslife.com sysadminslife.com * allow\nwww.t-mobile.at t-mobile.at * allow\nwww.tapatalk.com google.com * allow\nwww.tapatalk.com tapatalk.com * allow\nwww.teamviewer.com teamviewer.com * allow\nwww.techstage.de heise.de * allow\nwww.techstage.de techstage.de * allow\nwww.tele2.at tele2.at * allow\nwww.tele5.de tele5.de * allow\nwww.telekom.de telekom.de * allow\nwww.thebuddyforum.com thebuddyforum.com * allow\nwww.tvnow.at cdn.static-fra.de * allow\nwww.tvnow.at rtl.de * allow\nwww.tvnow.at tvnow.at * allow\nwww.tvnow.at tvnow.de * allow\nwww.twitch.tv ttvnw.net * allow\nwww.twitch.tv twitch.tv * allow\nwww.ubuntu.com ubuntu.com * allow\nwww.underground-server.eu underground-server.eu * allow\nwww.vice.com video-images.vice.com * allow\nwww.videolan.org videolan.org * allow\nwww.vmware.com vmware.com * allow\nwww.vodafone.de vodafone.de * allow\nwww.weitgasser.at parastorage.com * allow\nwww.willhaben.at here.com * allow\nwww.willhaben.at willhaben.at * allow\nwww.wirelesshack.org wirelesshack.org * allow\nwww.wko.at wko.at * allow\nwww.wowza.com wowza.com * allow\nwww.xing.com xing.com * allow\nwww.yahoo.com yahoo.com * allow\nwww.yahoo.com yimg.com * allow\nwww.zalando.at nanorep.com * allow\nwww.zalando.at zalando.at * allow\nwww.zalando.at ztat.net * allow\nwww.zdf.de zdf.de * allow\nwww.zerodayinitiative.com zerodayinitiative.com * allow\nyadi.sk yadi.sk * allow\nyadi.sk yandex.com * allow\nyadi.sk yandex.net * allow\nyadi.sk yandex.ru * allow\nyadi.sk yastatic.net * allow",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "",
+  "userFilters": "9gag.com###sidebar\nblogs.cisco.com###sidebar\ncommunity.spiceworks.com##.community-content-banner\npdf24.org##.adsbygoogle\npdf24.org##.adtext\npdf24.org##.tc.adtext\nwowhead.com###sidebar-wrapper\nwowhead.com##.blocks\nwowhead.com##.zul-bar-stand-in\ndmm.travel###ad-leaderboard\ndmm.travel###ad-skyscraper\ndmm.travel##.right-ad\ndownload.cnet.com###download-fd-leaderboard-ad-top\ndownload.cnet.com###download-leaderboard-ad-bottom\ndrivers.softpedia.com###_wlts_lead\ndrivers.softpedia.com##.adsbygoogle\ndrivers.softpedia.com##.brd-1-grey1.mgtop_20.grid_48\ndrivers.softpedia.com##.mgbot_20.ad-970x90.ad.grid_48\ndrivers.softpedia.com##.mgbot_40.mgtop_10.grid_15\nedition.cnn.com###intl_homepage1-zone-4\nfahrplan.oebb.at###HFSResult > div:nth-of-type(5)\nfahrplan.oebb.at###HFSResult > div:nth-of-type(6)\nfilehippo.com##.ad-unit-label\nfilehippo.com##.home-right-col\nfilehippo.com##.middle-column-leaderboard-ad-container\nforum.xda-developers.com##.xda-box.postbit-wrapper\ngeizhals.at###gh_blah\nkodi.tv###text-8\nkodi.tv##.wp_social_bookmarking_light\nkodi.tv##p:nth-of-type(5)\nkurier.at##.grid-block:nth-of-type(3) > .edge-right.edge-left.type-box.box-container > .ohidden.h125.w960.boxpart > .bannercontent\nkurier.at##.grid-partition:nth-of-type(3) > .grid-block:nth-of-type(1)\nkurier.at##.maincontainer > .grid-partition:nth-of-type(1) > .grid-block:nth-of-type(3)\nkurier.at##.maincontainer > .grid-partition:nth-of-type(1) > .grid-block:nth-of-type(4) > .edge-left.type-box.box-container\nlibreelec.tv##.s2.sidebar\nmokeedev.com##.adsbygoogle\nmonitoring-portal.org##.pageNavigation\nnews.filehippo.com##.right_col.right.sidebar\nonepiece-tube.com###BB_SK_9574344858\nonepiece-tube.com##.module:nth-of-type(1) > div > div\nonepiece-tube.com##.module:nth-of-type(2) > div > div\npr0gramm.com###gpt-rectangle-comments\npr0gramm.com###gpt-skyscraper-left\npraxistipps.chip.de##.Article__Introvideo\npraxistipps.chip.de##.fb-col-lg-8.fb-col-md-8.Article__AdditionalContent\npraxistipps.chip.de##.fb-col-lg-8.fb-col-md-8.mt-md.Article__Intro\npraxistipps.chip.de##.mt-lg.fb-justify-center.fb\npraxistipps.chip.de##.mt-md.fb\npraxistipps.chip.de##.mt-md.fb-col-lg-4.fb-col-md-4.Article__Promo\npraxistipps.chip.de##.Vertical__Flyin\nt3n.de##.tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-recentarticles-news.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-digitale-gesellschaft.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-digitale-wirtschaft.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-e-commerce.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-entwicklung-design.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-gadgets-lifestyle.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-karriere.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-marketing.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-mobilitaet.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-software-infrastruktur.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-ressort-startups.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar\nt3n.de##.tg-stage-sponsoredcontent.c-stage\ntrakt.tv##.huckster-vip-info\nwillmyphonework.net##.body-content.container > .row:nth-of-type(1)\nwillmyphonework.net##.form-group:nth-of-type(5) > .col-md-offset-2.col-md-10\nwillmyphonework.net##.hidden-sm.hidden-xs.col-sm-2.col-md-2\nwww.4players.de###spiel-preisvergleich\nwww.4players.de###stellenmarkt\nwww.4players.de###werbung-banner\nwww.4players.de##.anzeige\nwww.allkeyshop.com###box-linkleft\nwww.allkeyshop.com###box-linkright\nwww.allkeyshop.com##.getsocial\nwww.amazon.de###desktop-ad-atf\nwww.androguider.com##.adsbygoogle\nwww.androguider.com##.sidebar-wrapper\nwww.androidfilehost.com##.col-md-4:nth-of-type(4) > .panel-default.panel\nwww.androidfilehost.com##.responsiveMargin.col-md-4\nwww.borncity.com###colophon\nwww.borncity.com###primary\nwww.chip.de##.SkinLight.Section:nth-of-type(2) > .Grid__Container.Section__Content\nwww.chip.de##.videoplayer\nwww.cnet.de###div-gpt-ad-DESKTOP_MEGA-1\nwww.cnet.de###div-gpt-ad-DESKTOP_MPU-1\nwww.cnet.de##.dfp_word\nwww.der-postillon.com###sidebar\nwww.deskmodder.de###text-18\nwww.deskmodder.de##.adsbygoogle\nwww.deskmodder.de##.adsbygoogle:nth-of-type(2)\nwww.ebay.it##.beta-placement\nwww.elitepvpers.com###tickerwrapper\nwww.elitepvpers.com##.cwheadad\nwww.elitepvpers.com##center\nwww.eporner.com###btasd\nwww.eporner.com###cookies\nwww.eporner.com##.vjs-inplayer-container\nwww.facebook.com###pagelet_canvas_nav_content\nwww.facebook.com###pagelet_ego_pane\nwww.facebook.com##._1wcc\nwww.facebook.com##._1wcd\nwww.facebook.com##._4-u8._268y.cardRightCol._5v6e._4-u2\nwww.facebook.com##._4ejc\nwww.facebook.com##._4oes\nwww.facebook.com##.s_1cxalzl477.pagelet.ego_column\nwww.futurezone.de##.ad--marker\nwww.gamestar.de##.elemCont:nth-of-type(11)\nwww.gamestar.de##.elemCont:nth-of-type(12)\nwww.gamestar.de##.elemCont:nth-of-type(6)\nwww.gamestar.de##.elemCont:nth-of-type(7)\nwww.gamestar.de##.elemCont:nth-of-type(9)\nwww.gmx.at###adRectangleBottom\nwww.gmx.at###footer-bubble\nwww.gmx.at###footer-sep-line\nwww.gmx.at###promoline\nwww.gmx.at###uim_1\nwww.gmx.at###uim_2 > .r1\nwww.gmx.at###uim_3 > .r1\nwww.gmx.at###uim_4 > .r1\nwww.gmx.at###uim_5 > .r1\nwww.golem.de###iqadtile4\nwww.golem.de##.adsbygoogle\nwww.golem.de##.iqadlinebottom\nwww.google.at###taw\nwww.google.at##.ads-ad\nwww.gutefrage.net###async_teaser_block_sidebar\nwww.gutefrage.net##.Adsense__styleFrame2.Adsense\nwww.gutefrage.net##.Adsense__styleFrame2.Adsense.align-center\nwww.gutefrage.net##.marketing-teaser.is-hidden-mobile.gf-redesign.Block__secondary.Block\nwww.hearthhead.com###homepage-atf\nwww.hearthhead.com##.sidebar\nwww.heise.de###mitte_rechts\nwww.heise.de##.col-xs-4.stage-section:nth-of-type(1)\nwww.heise.de##.mag-stage.row\nwww.heise.de##.teaser_deal_des_tages\nwww.heise.de##.teaser_hbs\nwww.heute.at###pos_Skyscraper_links\nwww.heute.at###pos_Skyscraper_rechts\nwww.huffingtonpost.de###all_sponsored_posts\nwww.huffingtonpost.de##.ad_spot\nwww.huffingtonpost.de##.center.margin_10_0\nwww.huffingtonpost.de##.likegate-overlay-hp\nwww.krone.at##.c_sis_facebook_fancontainer_2x6 > .c_outer\nwww.merkur.de###id-js-DocumentDetail > .id-Article-body > .p402_premium > .id-Article-content-item:nth-of-type(4)\nwww.merkur.de##.id-Article-content-item:nth-of-type(34)\nwww.merkur.de##.id-CookieConsent\nwww.merkur.de##.id-g--oneCol.id-g:nth-of-type(1)\nwww.merkur.de##.id-g:nth-of-type(3)\nwww.merkur.de##.id-g:nth-of-type(4)\nwww.mfbot.de###text-7\nwww.mfbot.de##.adsense-leadout.adsense\nwww.mmoga.de##.boxContent > div:nth-of-type(7) > div\nwww.mmoga.de##.rightBoxContainer:nth-of-type(3) > .boxContent > div:nth-of-type(5) > div\nwww.nachrichten.at###StartseiteSonderthema\nwww.nachrichten.at##.sp4-middle.sp4\nwww.needrom.com###cookie_needrom\nwww.oe24.at###oesterreichTabbedBox > .pushDownSidebar.sidebar\nwww.oe24.at##.logoArea\nwww.oe24.at##.marginBottom.marginTop.xlKonsole\nwww.oe24.at##.marketingTeaserImage\nwww.oe24.at##.politik.tabbedBox.row > .pushDownSidebar.sidebar\nwww.opendisplaycase.de###c537\nwww.opendisplaycase.de###infoline\nwww.pc-magazin.de##.ad--google_adsense\nwww.pc-magazin.de##.col-xs-push-3.col-xs-42 > .row\nwww.pc-magazin.de##.container--content.container--fixedgrid.container > .row > .col-xs-48 > .row:nth-of-type(3) > .col-xs-48 > .row > main > .col-xs-32.maincol > .row > .teasergroup--maincol.teasergroup--landscape.teasergroup.col-xs-push-1.col-xs-46 > .teaser--inside-landscape.teaser.row:nth-of-type(1)\nwww.pc-magazin.de##.pull-right.col-xs-16.sidecol > .row:nth-of-type(6)\nwww.pc-magazin.de##.row:nth-of-type(7)\nwww.pcwelt.de##.blank\nwww.pcwelt.de##.box:nth-of-type(10)\nwww.pcwelt.de##.box:nth-of-type(3)\nwww.pcwelt.de##.box:nth-of-type(6)\nwww.pcwelt.de##.box:nth-of-type(7)\nwww.pcwelt.de##.box:nth-of-type(8)\nwww.quora.com##.PromptsList\nwww.sysadminslife.com###text-3\nwww.sysadminslife.com###text-7\nwww.sysadminslife.com##.adsbygoogle\nwww.taz.de###xid706590\nwww.taz.de##.corp.ich.sect_zahl.sect.odd.last.first\nwww.taz.de##.even.last.page.community.full > .head > .newsnavigation.navbar\nwww.taz.de##.sectfoot\nwww.techstage.de##.clearfix.adbottom\nwww.techstage.de##.clearfix.rectangle_ad\nwww.techstage.de##.rectangle_ad\nwww.tips.at###sidebar > .banner\nwww.tips.at##.mobile_banner_hide:nth-of-type(4)\nwww.tv-media.at###ad-top\nwww.tv-media.at###cookieModal\nwww.tv-media.at##.fb-artikel-box > .ym-gl.linearize-level-1.ym-g960-3\nwww.tv-media.at##.stage-widget.sidebar-ads-wrapper.ym-gl.linearize-level-1.ym-g960-3\nwww.vice.com##.article__embed--iframely.article__embed:nth-of-type(2) > div\nwww.willhaben.at###adition_ContentAd\nwww.willhaben.at###tower\nwww.wirelesshack.org###sfp_page_plugin_widget-2\nwww.yahoo.com###my-adsLREC-base\nwww.yahoo.com###sticky-lrec2-footer\nwww.youporn.com##.clearfix.tKhjd5wDIFy\nwww.youporn.com##.promo-message\nwww.youporn.com##.row.watchContent.watchVideo > .four-column\nwww.youporn.com##footer\nwww.zdnet.de###pageads_top\nwww.zdnet.de##.desktop.dfp_ad\nxiaomi.eu##.hiddenResponsiveNarrow\nxiaomi.eu##.sharePage.infoBlock.section\n",
+  "filterLists": {
+    "https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/adwarefilters.txt": {
+      "off": false
+    },
+    "https://adguard.com/en/filter-rules.html?id=6": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/2g4y1/filterlist/master/cosmetic-filter.txt": {
+      "off": false
+    },
+    "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt": {
+      "off": false
+    },
+    "http://malwareurls.joxeankoret.com/normal.txt": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/fanboy-vietnam.txt": {
+      "off": false
+    },
+    "https://adguard.com/filter-rules.html?id=13": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/fanboy-swedish.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistspanish.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/advblock.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/bitblock.txt": {
+      "off": false
+    },
+    "https://adguard.com/en/filter-rules.html?id=1": {
+      "off": false
+    },
+    "POL-1": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistdutch.txt": {
+      "off": false
+    },
+    "https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt": {
+      "off": false
+    },
+    "http://margevicius.lt/easylistlithuania.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/yous/YousList/master/youslist.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/gfmaster/adblock-korea-contrib/master/filter.txt": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/fanboy-korean.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistitaly.txt": {
+      "off": false
+    },
+    "https://dl.dropboxusercontent.com/u/1289327/abpxfiles/filtri.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt": {
+      "off": false
+    },
+    "http://adblock.gardar.net/is.abp.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt": {
+      "off": false
+    },
+    "https://www.void.gr/kargig/void-gr-filters.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/liste_fr.txt": {
+      "off": false
+    },
+    "http://adb.juvander.net/Finland_adb.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt": {
+      "off": false
+    },
+    "http://adblock.ee/list.php": {
+      "off": false
+    },
+    "https://adblock.dk/block.csv": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistgermany.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistchina.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt": {
+      "off": false
+    },
+    "http://stanev.org/abp/adblock_bg.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/Liste_AR.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/fanboy-social.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/fanboy-antifacebook.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt": {
+      "off": false
+    },
+    "https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt": {
+      "off": false
+    },
+    "http://malwaredomains.lehigh.edu/files/immortal_domains.txt": {
+      "off": false
+    },
+    "assets/thirdparties/mirror1.malwaredomains.com/files/justdomains": {
+      "off": false
+    },
+    "assets/thirdparties/www.malwaredomainlist.com/hostslist/hosts.txt": {
+      "off": false
+    },
+    "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/enhancedstats.txt": {
+      "off": false
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt": {
+      "off": false
+    },
+    "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt": {
+      "off": false
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easylist.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt": {
+      "off": false
+    },
+    "assets/ublock/unbreak.txt": {
+      "off": false
+    },
+    "assets/ublock/privacy.txt": {
+      "off": false
+    },
+    "assets/ublock/badware.txt": {
+      "off": false
+    },
+    "assets/ublock/filters.txt": {
+      "off": false
+    },
+    "assets/user/filters.txt": {
+      "off": false
+    },
+    "assets/ublock/experimental.txt": {
+      "off": true
+    },
+    "assets/thirdparties/pgl.yoyo.org/as/serverlist": {
+      "off": true
+    }
+  }
+}

@@ -11,3 +11,7 @@ Auch hierfür stelle ich halbwegs getestete Settings bereit. https://raw.githubu
 
 
 Wer etwas dazu beitragen möchte, bitte nur ein Pull Request pro Website, da es ansonsten etwas kompliziert für mich wird.
+
+
+One Click Add: abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2F2g4y1%2Ffilterlist%2Fmaster%2Fcosmetic-filter.txt&title=Personal%20Cosmetic%20Filters
+

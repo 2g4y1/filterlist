@@ -2,6 +2,8 @@
 !Kosmetische Filterliste für uBlock Origin
 !Liste erstellt 20:05 21.03.2017
 [Adblock]
+###bannerzone
+##.adsbygoogle
 9gag.com###sidebar
 blogs.cisco.com###sidebar
 community.spiceworks.com##.community-content-banner
@@ -23,6 +25,7 @@ filehippo.com##.home-right-col
 filehippo.com##.middle-column-leaderboard-ad-container
 forum.xda-developers.com##.xda-box.postbit-wrapper
 geizhals.at###gh_blah
+jdownloader.org##hr
 kodi.tv###text-8
 kodi.tv##.wp_social_bookmarking_light
 kodi.tv##p:nth-of-type(5)
@@ -33,6 +36,8 @@ kurier.at##.maincontainer > .grid-partition:nth-of-type(1) > .grid-block:nth-of-
 libreelec.tv##.s2.sidebar
 mokeedev.com##.adsbygoogle
 monitoring-portal.org##.pageNavigation
+news.filehippo.com##.insert
+news.filehippo.com##.missed
 news.filehippo.com##.right_col.right.sidebar
 onepiece-tube.com###BB_SK_9574344858
 onepiece-tube.com##.module:nth-of-type(1) > div > div
@@ -49,6 +54,7 @@ praxistipps.chip.de##.mt-lg.fb-justify-center.fb
 praxistipps.chip.de##.mt-md.fb
 praxistipps.chip.de##.mt-md.fb-col-lg-4.fb-col-md-4.Article__Promo
 praxistipps.chip.de##.Vertical__Flyin
+sourceforge.net##.sterling
 t3n.de##.tg-sidebar.o-grid__sidebar
 t3n.de##.tg-stage-recentarticles-news.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
 t3n.de##.tg-stage-ressort-digitale-gesellschaft.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
@@ -63,6 +69,8 @@ t3n.de##.tg-stage-ressort-software-infrastruktur.c-section > .c-section__body > 
 t3n.de##.tg-stage-ressort-startups.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
 t3n.de##.tg-stage-sponsoredcontent.c-stage
 trakt.tv##.huckster-vip-info
+web.de###adRectangleBottom
+web.de###promoline
 willmyphonework.net##.body-content.container > .row:nth-of-type(1)
 willmyphonework.net##.form-group:nth-of-type(5) > .col-md-offset-2.col-md-10
 willmyphonework.net##.hidden-sm.hidden-xs.col-sm-2.col-md-2
@@ -89,15 +97,17 @@ www.androidfilehost.com##.responsiveMargin.col-md-4
 www.borncity.com###colophon
 www.borncity.com###primary
 www.chip.de##.mt-md.NewsArticle__HeadImage
+www.chip.de##.paidlisting-body
 www.chip.de##.SkinLight.Section:nth-of-type(2) > .Grid__Container.Section__Content
 www.chip.de##.videoplayer
 www.cnet.de###div-gpt-ad-DESKTOP_MEGA-1
 www.cnet.de###div-gpt-ad-DESKTOP_MPU-1
 www.cnet.de##.dfp_word
+www.computerbild.de###sethomepage
+www.computerbild.de##.active.ng-isolate-scope.coop.teaserblock
+www.computerbild.de##.doppel_artikel.teaser_rr
 www.der-postillon.com###sidebar
 www.deskmodder.de###text-18
-www.deskmodder.de##.adsbygoogle
-www.deskmodder.de##.adsbygoogle:nth-of-type(2)
 www.drwindows.de##center
 www.ebay.it##.beta-placement
 www.elitepvpers.com###tickerwrapper
@@ -150,6 +160,7 @@ www.golem.de##.adsbygoogle
 www.golem.de##.iqadlinebottom
 www.google.at###taw
 www.google.at##.ads-ad
+www.gsmarena.com###subHeader
 www.gutefrage.net###async_teaser_block_sidebar
 www.gutefrage.net##.Adsense__styleFrame2.Adsense
 www.gutefrage.net##.Adsense__styleFrame2.Adsense.align-center
@@ -182,6 +193,7 @@ www.mfbot.de##.adsense-leadout.adsense
 www.mmoga.de##.boxContent > div:nth-of-type(7) > div
 www.mmoga.de##.rightBoxContainer:nth-of-type(3) > .boxContent > div:nth-of-type(5) > div
 www.nachrichten.at###StartseiteSonderthema
+www.nachrichten.at##.cc_container--open.cc_container.cc_banner
 www.nachrichten.at##.sp4-middle.sp4
 www.needrom.com###cookie_needrom
 www.news.at##.box
@@ -208,6 +220,7 @@ www.pcwelt.de##.box:nth-of-type(9)
 www.pcwelt.de##.cc_banner-wrapper
 www.pocketpc.ch###IK-ad-block
 www.quora.com##.PromptsList
+www.spieletipps.de##.stiPerformance
 www.sysadminslife.com###text-3
 www.sysadminslife.com###text-7
 www.sysadminslife.com##.adsbygoogle
@@ -232,6 +245,9 @@ www.vice.com##.article__embed--iframely.article__embed:nth-of-type(2) > div
 www.wetter.at##.rightBase.right
 www.willhaben.at###adition_ContentAd
 www.willhaben.at###tower
+www.willhaben.at##.adition_AdDetail
+www.willhaben.at##.bg-gray.box-block
+www.willhaben.at##.box-body-share.box-block
 www.wirelesshack.org###sfp_page_plugin_widget-2
 www.yahoo.com###my-adsLREC-base
 www.yahoo.com###sticky-lrec2-footer

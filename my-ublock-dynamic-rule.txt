@@ -1,3 +1,4 @@
+
 no-strict-blocking: www.gearbest.com true
 * * 3p-frame block
 * * 3p-script block
@@ -15,6 +16,11 @@ no-strict-blocking: www.gearbest.com true
 * fonts.net * allow
 * gstatic.com * allow
 * hello.myfonts.net * allow
+* https://aax-eu.amazon-adsystem.com * block
+* https://ad.doubleclick.net image block
+* https://www.google.com/images/cleardot.gif image block
+* https://www.google.com/recaptcha sub_frame allow
+* https://www.google.com/recaptcha/api.js script allow
 * jquery.com * allow
 * maps.googleapis.com * allow
 * nocookie.net * allow
@@ -56,6 +62,8 @@ clipchamp.com clipchamp.com * allow
 community.spiceworks.com spiceworks.com * allow
 community.spiceworks.com spiceworksstatic.com * allow
 decentsecurity.com squarespace.com * allow
+derstandard.at https://derstandard.at/js/Survey.js script block
+derstandard.at https://derstandard.at/s image block
 developers.google.com google-developers.appspot.com * allow
 diepresse.com diepresse.com * allow
 dietagespresse.com tagespresse.dietagespresse.netdna-cdn.com * allow
@@ -101,11 +109,14 @@ flipboard.com google.com * allow
 forum.xda-developers.com * 1p-script allow
 forum.xda-developers.com * inline-script allow
 forum.xda-developers.com google.com * allow
+forum.xda-developers.com https://forum-lw-1.xda-cdn.com/clientscript/2015.foot.min.js script block
+forum.xda-developers.com https://forum-lw-1.xda-cdn.com/clientscript/2015.head.min.js script block
 forum.xda-developers.com www.googleapis.com * allow
 forum.xda-developers.com xda-cdn.com * allow
 forum.xda-developers.com xda-developers.com * allow
 forums.galaxy-of-heroes.starwars.ea.com ea.com * allow
 futurezone.at futurezone.at * allow
+futurezone.at https://tracking.kurier.at * block
 futurezone.at kurier.at * allow
 futurezone.at pinpoll.com * allow
 gallery.technet.microsoft.com s-msft.com * allow
@@ -297,6 +308,7 @@ www.dell.com dellcdn.com * allow
 www.deskmodder.de * 1p-script allow
 www.deskmodder.de * inline-script allow
 www.deskmodder.de deskmodder.de * allow
+www.deskmodder.de https://www.deskmodder.de/statistiken_dm script block
 www.deskmodder.de www.deskmodder.de * allow
 www.dict.cc dict.cc * allow
 www.dm-drogeriemarkt.at dm-drogeriemarkt.at * allow
@@ -315,6 +327,15 @@ www.ebay.de ebay.com * allow
 www.ebay.de ebay.de * allow
 www.ebay.de ebaydesc.com * allow
 www.ebay.de ebayimg.com * allow
+www.ebay.de http://gha.ebay.de/nproxy/notification/v1/bullseye script block
+www.ebay.de http://pics.ebaystatic.com/aw/pics/s.gif sub_frame block
+www.ebay.de http://pulsar.ebay.de beacon block
+www.ebay.de http://rover.ebay.de/roverclk beacon block
+www.ebay.de http://rover.ebay.de/roverimp image block
+www.ebay.de http://x.velocity.ebay.com image block
+www.ebay.de https://securepics.ebaystatic.com/aw sub_frame block
+www.ebay.de https://securepics.ebaystatic.com/aw/pics/s.gif inline-script block
+www.ebay.de x.velocity.ebay.com * block
 www.eduscho.at eduscho.at * allow
 www.eduscho.at tchibo-content.de * allow
 www.eety.at animate.adobe.com * allow
@@ -369,6 +390,7 @@ www.heise-gruppe.de heise.de * allow
 www.heise.de * image allow
 www.heise.de heise.de * allow
 www.heise.de jwpcdn.com * allow
+www.heise.de mpnrs.com * block
 www.heise.de prophet.heise.de * allow
 www.heise.de www.heise.de * allow
 www.hervis.at azureedge.net * allow
@@ -522,6 +544,7 @@ www.vodafone.de vodafone.de * allow
 www.weitgasser.at parastorage.com * allow
 www.wetter.at wetter.at * allow
 www.willhaben.at here.com * allow
+www.willhaben.at https://cache.willhaben.at/clientscript/iad/advertbuttons_2.js script block
 www.willhaben.at willhaben.at * allow
 www.wirelesshack.org wirelesshack.org * allow
 www.wko.at wko.at * allow
@@ -534,6 +557,7 @@ www.zalando.at zalando.at * allow
 www.zalando.at ztat.net * allow
 www.zdf.de zdf.de * allow
 www.zerodayinitiative.com zerodayinitiative.com * allow
+www12.zippyshare.com zippyshare.com * allow
 yadi.sk yadi.sk * allow
 yadi.sk yandex.com * allow
 yadi.sk yandex.net * allow

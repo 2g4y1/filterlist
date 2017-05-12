@@ -4,6 +4,7 @@
 [Adblock]
 ###bannerzone
 ##.adsbygoogle
+/trans_pixel.aspx?
 9gag.com###sidebar
 blogs.cisco.com###sidebar
 community.spiceworks.com##.community-content-banner
@@ -23,6 +24,7 @@ fahrplan.oebb.at###HFSResult > div:nth-of-type(6)
 filehippo.com##.ad-unit-label
 filehippo.com##.home-right-col
 filehippo.com##.middle-column-leaderboard-ad-container
+forum.xda-developers.com###xdadepot-container
 forum.xda-developers.com##.xda-box.postbit-wrapper
 geizhals.at###gh_blah
 jdownloader.org##hr
@@ -111,6 +113,7 @@ www.deskmodder.de###text-18
 www.drwindows.de##center
 www.ebay.it##.beta-placement
 www.elitepvpers.com###tickerwrapper
+www.elitepvpers.com##.cw1h
 www.elitepvpers.com##.cwheadad
 www.elitepvpers.com##center
 www.eporner.com###btasd
@@ -196,6 +199,7 @@ www.nachrichten.at###StartseiteSonderthema
 www.nachrichten.at##.cc_container--open.cc_container.cc_banner
 www.nachrichten.at##.sp4-middle.sp4
 www.needrom.com###cookie_needrom
+www.needrom.com##.bigright1
 www.news.at##.box
 www.oe24.at###oesterreichTabbedBox > .pushDownSidebar.sidebar
 www.oe24.at##.logoArea
@@ -220,6 +224,8 @@ www.pcwelt.de##.box:nth-of-type(9)
 www.pcwelt.de##.cc_banner-wrapper
 www.pocketpc.ch###IK-ad-block
 www.quora.com##.PromptsList
+www.scdkey.com##.web-face-i.web-data
+www.scdkey.com##.web-pa.web-data
 www.spieletipps.de##.stiPerformance
 www.sysadminslife.com###text-3
 www.sysadminslife.com###text-7
@@ -248,6 +254,11 @@ www.willhaben.at###tower
 www.willhaben.at##.adition_AdDetail
 www.willhaben.at##.bg-gray.box-block
 www.willhaben.at##.box-body-share.box-block
+www.winboard.org###yui-gen0
+www.winboard.org##.above_header
+www.winboard.org##.floatcontainer.textcontrols
+www.winboard.org##.forumfooter
+www.winboard.org##.nointelliTXT.postcontainer.postbitim.postbitlegacy
 www.wirelesshack.org###sfp_page_plugin_widget-2
 www.yahoo.com###my-adsLREC-base
 www.yahoo.com###sticky-lrec2-footer
@@ -259,3 +270,4 @@ www.zdnet.de###pageads_top
 www.zdnet.de##.desktop.dfp_ad
 xiaomi.eu##.hiddenResponsiveNarrow
 xiaomi.eu##.sharePage.infoBlock.section
+||ad.doubleclick.net$image

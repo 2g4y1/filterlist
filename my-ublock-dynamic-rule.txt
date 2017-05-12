@@ -1,4 +1,5 @@
 
+no-strict-blocking: ads-blocker.com true
 no-strict-blocking: www.gearbest.com true
 * * 3p-frame block
 * * 3p-script block
@@ -8,17 +9,23 @@ no-strict-blocking: www.gearbest.com true
 * apis.google.com * allow
 * aspnetcdn.com * allow
 * cdn.jsdelivr.net * allow
+* clancy.spiceworks.com * block
 * cloudflare.com * allow
 * cloudfront.net * allow
+* disqus.com * allow
+* disquscdn.com * allow
 * fontawesome.com * allow
 * fonts.adobe.com * allow
 * fonts.googleapis.com * allow
 * fonts.net * allow
+* gekko.spiceworks.com * block
 * gstatic.com * allow
 * hello.myfonts.net * allow
+* http://www.google.com/recaptcha script allow
 * https://aax-eu.amazon-adsystem.com * block
 * https://ad.doubleclick.net image block
 * https://www.google.com/images/cleardot.gif image block
+* https://www.google.com/recaptcha script allow
 * https://www.google.com/recaptcha sub_frame allow
 * https://www.google.com/recaptcha/api.js script allow
 * jquery.com * allow
@@ -41,12 +48,14 @@ account.xiaomi.com * inline-script allow
 account.xiaomi.com google.at * allow
 accounts.google.com gstatic.com * allow
 aceinsight.websense.com websense.com * allow
+ads-blocker.com ads-blocker.com * allow
 answers.microsoft.com microsoft.com * allow
 at.linkedin.com licdn.com * allow
 at.linkedin.com linkedin.com * allow
 banking.raiffeisen.at info.elba.at * allow
 behind-the-scene * 3p noop
 behind-the-scene * 3p-frame noop
+blog.adduplex.com adduplex.com * allow
 blogs.cisco.com cisco.com * allow
 blogs.vmware.com shrinktheweb.com * allow
 blogs.vmware.com vmware.com * allow
@@ -59,8 +68,14 @@ buy.garmin.com garmin.com * allow
 buy.garmin.com garmincdn.com * allow
 cdburnerxp.se cdburnerxp.se * allow
 clipchamp.com clipchamp.com * allow
+community.spiceworks.com https://community.spiceworks.com/assets/tracker.js script block
+community.spiceworks.com https://px.spiceworks.com image block
+community.spiceworks.com https://static.spiceworks.com/assets/tracker.js script block
 community.spiceworks.com spiceworks.com * allow
 community.spiceworks.com spiceworksstatic.com * allow
+dampferhuette.at dampferhuette.at * allow
+dampferpyramide.at dampferpyramide.at * allow
+de.ipswitch.com ipswitch.com * allow
 decentsecurity.com squarespace.com * allow
 derstandard.at https://derstandard.at/js/Survey.js script block
 derstandard.at https://derstandard.at/s image block
@@ -115,6 +130,7 @@ forum.xda-developers.com www.googleapis.com * allow
 forum.xda-developers.com xda-cdn.com * allow
 forum.xda-developers.com xda-developers.com * allow
 forums.galaxy-of-heroes.starwars.ea.com ea.com * allow
+forums.galaxy-of-heroes.starwars.ea.com https://p.typekit.net/p.gif image block
 futurezone.at futurezone.at * allow
 futurezone.at https://tracking.kurier.at * block
 futurezone.at kurier.at * allow
@@ -128,6 +144,7 @@ geizhals.at geizhals.at * allow
 geizhals.at gzhls.at * allow
 github.com github.com * allow
 github.com render.githubusercontent.com * allow
+grillen.merkurmarkt.at merkurmarkt.at * allow
 hp.com hp.com * allow
 hp.com www8-hp.com * allow
 immobilienscout24.at immobilienscout24.at * allow
@@ -138,6 +155,7 @@ jedipedia.wikia.com nocookie.net * allow
 jedipedia.wikia.com wikia.com * allow
 keepass.info keepass.info * allow
 kernel.org kernel.org * allow
+kodi.tv https://kodi.tv/sites/default/files/googleanalytics script block
 kodi.tv kodi.tv * allow
 libreelec.tv libreelec.tv * allow
 lineageos.org lineageos.org * allow
@@ -145,6 +163,12 @@ lineageos.org maxcdn.bootstrapcdn.com * allow
 mail.google.com google.com * allow
 mail.google.com gstatic.com * allow
 mark0.net mark0.net * allow
+microsoft.com https://c.microsoft.com * block
+microsoft.com https://c1.microsoft.com image block
+microsoft.com https://c1.microsoft.com/c.gif inline-script block
+microsoft.com https://c1.microsoft.com/c.gif sub_frame block
+microsoft.com https://i1.social.s-msft.com/globalresources image block
+microsoft.com https://web.vortex.data.microsoft.com image block
 my.kaspersky.com kaspersky.com * allow
 naruto-tube.org ani-stream.com * allow
 naruto-tube.org jwpcdn.com * allow
@@ -177,6 +201,7 @@ play.google.com * 3p-script noop
 plugins.loxberry.de loxberry.de * allow
 plus.google.com google.com * allow
 pons.com pons.com * allow
+pr0gramm.com https://pr0gramm.com/escobar/data/escobar.js script block
 pr0gramm.com pr0gramm.com * allow
 praxistipps.chip.de ad-js.chip.de * allow
 promotions.hausverstand.at hausverstand.at * allow
@@ -186,6 +211,8 @@ s6.sfgame.de * 1p-script allow
 s6.sfgame.de * inline-script allow
 s6.sfgame.de playa-games.com * allow
 s6.sfgame.de sfgame.de * allow
+smile.amazon.de amazon.de * allow
+smile.amazon.de ssl-images-amazon.com * allow
 social.technet.microsoft.com s-msft.com * allow
 soundcloud.com sndcdn.com * allow
 soundcloud.com soundcloud.com * allow
@@ -301,8 +328,11 @@ www.computerbild.de * image allow
 www.computerbild.de computer-bild.de * allow
 www.computerbild.de computerbild.de * allow
 www.conrad.at conrad.at * allow
+www.crunchyroll.com crunchyroll.com * allow
+www.crunchyroll.com fwmrm.net * allow
 www.dailymotion.com dmcdn.net * allow
 www.dailymotion.com tofu.dmcdn.net * block
+www.dampfwolke.at dampfwolke.at * allow
 www.dell.com dell.com * allow
 www.dell.com dellcdn.com * allow
 www.deskmodder.de * 1p-script allow
@@ -365,6 +395,7 @@ www.gearbest.com mailcache.gearbest.com * allow
 www.gearbest.com uidesign.gearbest.com * allow
 www.gearbest.com www.gearbest.com * allow
 www.gebrauchtwagen.at gebrauchtwagen.at * allow
+www.geniesserhotels.com geniesserhotels.com * allow
 www.giga.de cloudflare.com * allow
 www.giga.de giga-video.de * allow
 www.giga.de giga.de * allow
@@ -389,6 +420,10 @@ www.handy-faq.de handy-faq.de * allow
 www.heise-gruppe.de heise.de * allow
 www.heise.de * image allow
 www.heise.de heise.de * allow
+www.heise.de https://jwpltx.com/v1/aanbevolen/ping.gif image block
+www.heise.de https://jwpltx.com/v1/jwplayer6/ping.gif image block
+www.heise.de https://prophet.heise.de image block
+www.heise.de https://www.heise.de/js/ho/webtrekk-v4.3.5-bundle-heise-2017-01-20.js script block
 www.heise.de jwpcdn.com * allow
 www.heise.de mpnrs.com * block
 www.heise.de prophet.heise.de * allow
@@ -403,6 +438,7 @@ www.hpe.com hpe.com * allow
 www.humanic.net humanic.net * allow
 www.humblebundle.com akamaihd.net * allow
 www.humblebundle.com humblebundle.com * allow
+www.icinga.com icinga.com * allow
 www.ikea.com ikea.com * allow
 www.imdb.com imdb.com * allow
 www.impericon.com impericon.com * allow
@@ -432,6 +468,7 @@ www.linz.at linz.at * allow
 www.loxforum.com loxforum.com * allow
 www.loxwiki.eu loxwiki.eu * allow
 www.mcdonalds.at mcdonalds.at * allow
+www.mediafire.com mediafire.com * allow
 www.mediamarkt.at appdynamics.com * allow
 www.mediamarkt.at mediamarkt.at * allow
 www.mediamarkt.at ms-daten.at * allow
@@ -444,6 +481,8 @@ www.microsoft.com * inline-script allow
 www.microsoft.com akamaized.net * allow
 www.microsoft.com c.s-microsoft.com * allow
 www.microsoft.com gfx.ms * allow
+www.microsoft.com https://c.microsoft.com image block
+www.microsoft.com https://c1.microsoft.com inline-script block
 www.microsoft.com microsoft.com * allow
 www.microsoft.com onestore.ms * allow
 www.microsoft.com s-microsoft.com * allow
@@ -457,6 +496,7 @@ www.moemax.at moemax.de * allow
 www.mueller-drogerie.at mueller-drogerie.at * allow
 www.mysn.de mysn.de * allow
 www.nachrichten.at nachrichten.at * allow
+www.nahundfrisch.at nahundfrisch.at * allow
 www.news.at news.at * allow
 www.nordsee.com nordsee.com * allow
 www.notebooksbilliger.de notebooksbilliger.de * allow
@@ -466,6 +506,7 @@ www.obi.at obi.at * allow
 www.oebb.at oebb.at * allow
 www.oebb.at piwikext.oebb.at * block
 www.oeticket.com oeticket.com * allow
+www.oetker.at msecnd.net * allow
 www.opendisplaycase.de opendisplaycase.de * allow
 www.openoffice.org openoffice.org * allow
 www.opensubtitles.org opensubtitles.org * allow
@@ -503,6 +544,7 @@ www.sat1.at p7s1.com * allow
 www.sat1.at sat1.at * allow
 www.saturn.at redblue.de * allow
 www.saturn.at saturn.at * allow
+www.scdkey.com scdkey.com * allow
 www.slideshare.net slidesharecdn.com * allow
 www.spar.at spar.at * allow
 www.sparkasse.at sparkasse.at * allow
@@ -537,6 +579,7 @@ www.twitch.tv ttvnw.net * allow
 www.twitch.tv twitch.tv * allow
 www.ubuntu.com ubuntu.com * allow
 www.underground-server.eu underground-server.eu * allow
+www.unixe.de unixe.de * allow
 www.vice.com video-images.vice.com * allow
 www.videolan.org videolan.org * allow
 www.vmware.com vmware.com * allow

@@ -25,7 +25,10 @@ filehippo.com##.ad-unit-label
 filehippo.com##.home-right-col
 filehippo.com##.middle-column-leaderboard-ad-container
 forum.xda-developers.com###xdadepot-container
+forum.xda-developers.com##.oneplus-banner
 forum.xda-developers.com##.xda-box.postbit-wrapper
+futurism.com##.share.module
+futurism.com##.subscribe-form.center
 geizhals.at###gh_blah
 jdownloader.org##hr
 kodi.tv###text-8
@@ -111,6 +114,7 @@ www.computerbild.de##.doppel_artikel.teaser_rr
 www.der-postillon.com###sidebar
 www.deskmodder.de###text-18
 www.drwindows.de##center
+www.ebay.de##.browse-link--single-image
 www.ebay.it##.beta-placement
 www.elitepvpers.com###tickerwrapper
 www.elitepvpers.com##.cw1h
@@ -136,6 +140,8 @@ www.gamestar.de##.elemCont:nth-of-type(9)
 www.gewinnspielsammlung.at###menu > tbody > tr:nth-of-type(3)
 www.gewinnspielsammlung.at##.kopf > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr
 www.gewinnspielsammlung.at##p:nth-of-type(139)
+www.gewinnspielsammlung.at##small > table
+www.gewinnspielsammlung.at##small > table > tbody > tr
 www.gewinnspielsammlung.at##tr:nth-of-type(10)
 www.gewinnspielsammlung.at##tr:nth-of-type(12)
 www.gewinnspielsammlung.at##tr:nth-of-type(14)
@@ -144,6 +150,7 @@ www.gewinnspielsammlung.at##tr:nth-of-type(16)
 www.gewinnspielsammlung.at##tr:nth-of-type(18)
 www.gewinnspielsammlung.at##tr:nth-of-type(6)
 www.gewinnspielsammlung.at##tr:nth-of-type(8)
+www.gewinnspielverzeichnis.at##.page-body > div > .list-group > .list > .element:nth-of-type(7)
 www.gmx.at###adRectangleBottom
 www.gmx.at###footer-bubble
 www.gmx.at###footer-sep-line
@@ -161,6 +168,7 @@ www.goabase.net##.topline2.over-hidden.clearfix.padding-fat.infobox
 www.golem.de###iqadtile4
 www.golem.de##.adsbygoogle
 www.golem.de##.iqadlinebottom
+www.golem.de##.supplementary
 www.google.at###taw
 www.google.at##.ads-ad
 www.gsmarena.com###subHeader
@@ -184,7 +192,12 @@ www.huffingtonpost.de##.ad_spot
 www.huffingtonpost.de##.center.margin_10_0
 www.huffingtonpost.de##.likegate-overlay-hp
 www.itmagazine.ch##.news_rectangle
+www.kinonews.de##.moduletable_banner
 www.krone.at##.c_sis_facebook_fancontainer_2x6 > .c_outer
+www.luckydevil.at###bsa-block-336--280 > .bsaProHeader > .bsaProHeader__title > span
+www.luckydevil.at##.bsaProHeader
+www.luckydevil.at##.bsaProHeader__formUrl
+www.luckydevil.at##.bsaProItemInner
 www.merkur.de###id-js-DocumentDetail > .id-Article-body > .p402_premium > .id-Article-content-item:nth-of-type(4)
 www.merkur.de##.id-Article-content-item:nth-of-type(34)
 www.merkur.de##.id-CookieConsent
@@ -223,9 +236,14 @@ www.pcwelt.de##.box:nth-of-type(8)
 www.pcwelt.de##.box:nth-of-type(9)
 www.pcwelt.de##.cc_banner-wrapper
 www.pocketpc.ch###IK-ad-block
+www.pro-linux.de##.table_title:nth-of-type(7) > .head
+www.pro-linux.de##.table_title:nth-of-type(9) > .head
+www.pro-linux.de##body > div
+www.pro-linux.de##body > table > tbody > tr > td:nth-of-type(2)
 www.quora.com##.PromptsList
 www.scdkey.com##.web-face-i.web-data
 www.scdkey.com##.web-pa.web-data
+www.soeren-hentzschel.at##.tnemesitrevda
 www.spieletipps.de##.stiPerformance
 www.sysadminslife.com###text-3
 www.sysadminslife.com###text-7
@@ -239,6 +257,8 @@ www.techstage.de##.clearfix.rectangle_ad
 www.techstage.de##.rectangle_ad
 www.tips.at###sidebar > .banner
 www.tips.at##.mobile_banner_hide:nth-of-type(4)
+www.trademind.de###uJ_DRQAWO9iMbD52 > .old.postcontainer.postbitim.postbitlegacy
+www.trademind.de##.old.postcontainer.postbitim.postbitlegacy:nth-of-type(2)
 www.tv-media.at###ad-top
 www.tv-media.at###cookieModal
 www.tv-media.at##.fb-artikel-box > .ym-gl.linearize-level-1.ym-g960-3

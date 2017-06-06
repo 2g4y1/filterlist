@@ -1,5 +1,7 @@
 
 no-strict-blocking: ads-blocker.com true
+no-strict-blocking: login.gearbest.com true
+no-strict-blocking: user.gearbest.com true
 no-strict-blocking: www.gearbest.com true
 * * 3p-frame block
 * * 3p-script block
@@ -123,9 +125,10 @@ flipboard.com google.at * allow
 flipboard.com google.com * allow
 forum.xda-developers.com * 1p-script allow
 forum.xda-developers.com * inline-script allow
+forum.xda-developers.com criteo.net * allow
 forum.xda-developers.com google.com * allow
-forum.xda-developers.com https://forum-lw-1.xda-cdn.com/clientscript/2015.foot.min.js script block
-forum.xda-developers.com https://forum-lw-1.xda-cdn.com/clientscript/2015.head.min.js script block
+forum.xda-developers.com https://forum-lw-1.xda-cdn.com/clientscript script allow
+forum.xda-developers.com https://forum-lw-1.xda-cdn.com/clientscript/2015.head.min.js script allow
 forum.xda-developers.com www.googleapis.com * allow
 forum.xda-developers.com xda-cdn.com * allow
 forum.xda-developers.com xda-developers.com * allow
@@ -135,6 +138,8 @@ futurezone.at futurezone.at * allow
 futurezone.at https://tracking.kurier.at * block
 futurezone.at kurier.at * allow
 futurezone.at pinpoll.com * allow
+futurism.com facebook.com * allow
+futurism.com facebook.net * allow
 gallery.technet.microsoft.com s-msft.com * allow
 gearbest.com gearbest.com * allow
 gearbest.com icss1.gearbest.com * allow
@@ -181,6 +186,7 @@ news.filehippo.com * 1p-script allow
 news.filehippo.com * inline-script allow
 news.filehippo.com technews.wpengine.netdna-cdn.com * allow
 nextcloud.com nextcloud.com * allow
+oe3dabei.orf.at orf.at * allow
 onedrive.live.com akamaihd.net * allow
 onepiece-tube.com ani-stream.com * allow
 onepiece-tube.com jwpcdn.com * allow
@@ -217,7 +223,9 @@ social.technet.microsoft.com s-msft.com * allow
 soundcloud.com sndcdn.com * allow
 soundcloud.com soundcloud.com * allow
 source.android.com android.com * allow
+staytuned.wetransfer.com wetransfer.net * allow
 steamcommunity.com akamaihd.net * allow
+steamcommunity.com dota2.com * allow
 steamcommunity.com steamcommunity.com * allow
 steamcommunity.com ytimg.com * allow
 store.wowza.com wowza.com * allow
@@ -230,6 +238,7 @@ technet.microsoft.com aspnetcdn.com * allow
 technet.microsoft.com microsoft.com * allow
 telegram.org telegram.org * allow
 toolslib.net toolslib.net * allow
+track.aftership.com s3.amazonaws.com * allow
 trakt.tv * 1p-script allow
 trakt.tv * 3p-frame noop
 trakt.tv * 3p-script noop
@@ -278,6 +287,7 @@ www.amazon.de amazon-adsystem.com * allow
 www.amazon.de amazon.co.uk * allow
 www.amazon.de amazon.com * allow
 www.amazon.de amazon.de * allow
+www.amazon.de https://fls-eu.amazon.de/1 image block
 www.amazon.de media-amazon.com * allow
 www.amazon.de ssl-images-amazon.com * allow
 www.androguider.com cloudflare.com * allow
@@ -386,6 +396,7 @@ www.forum-raspberrypi.de forum-raspberrypi.de * allow
 www.futurezone.de futurezone.de * allow
 www.g2a.com g2a.com * allow
 www.gamestar.de gamestar.de * allow
+www.gameswelt.at gameswelt.net * allow
 www.gamesworld.de 4pcdn.de * allow
 www.gamesworld.de gamesworld.de * allow
 www.garmin.com garmincdn.com * allow
@@ -410,9 +421,7 @@ www.gog.com gog.com * allow
 www.golem.de video.golem.de * allow
 www.golem.de www.golem.de * allow
 www.google.at google.com * allow
-www.google.at gstatic.com * allow
 www.google.at notifications.google.com * allow
-www.google.at ssl.gstatic.com * allow
 www.google.at www.google.at * allow
 www.gq-magazin.de gq-magazin.de * allow
 www.gutefrage.net gutefrage.net * allow
@@ -474,6 +483,7 @@ www.mediamarkt.at mediamarkt.at * allow
 www.mediamarkt.at ms-daten.at * allow
 www.mediamarkt.at redblue.de * allow
 www.meinbezirk.at meinbezirk.at * allow
+www.menshealth.de menshealth.de * allow
 www.merkur.de idcdn.de * allow
 www.mfbot.de mfbot.de * allow
 www.mi.com appmifile.com * allow
@@ -490,7 +500,6 @@ www.milka.at milka.at * allow
 www.mjam.net * 1p-script allow
 www.mjam.net * inline-script allow
 www.mjam.net mjam.net * allow
-www.mjam.net newrelic.com * allow
 www.moemax.at moemax.at * allow
 www.moemax.at moemax.de * allow
 www.mueller-drogerie.at mueller-drogerie.at * allow
@@ -537,6 +546,7 @@ www.raspberrypi.org raspberrypi.org * allow
 www.real.de real-ident.de * allow
 www.real.de real-onlineshop.de * allow
 www.reddit.com redditstatic.com * allow
+www.rockpapershotgun.com rockpapershotgun.com * allow
 www.rtl2.de rtl2.de * allow
 www.samsung.com samsung.com * allow
 www.sat1.at 7tv.de * allow
@@ -545,6 +555,7 @@ www.sat1.at sat1.at * allow
 www.saturn.at redblue.de * allow
 www.saturn.at saturn.at * allow
 www.scdkey.com scdkey.com * allow
+www.servustv.com servustv.com * allow
 www.slideshare.net slidesharecdn.com * allow
 www.spar.at spar.at * allow
 www.sparkasse.at sparkasse.at * allow
@@ -554,6 +565,7 @@ www.sport2000.at sport2000.at * allow
 www.spotify.com d2c87l0yth4zbw-2.global.ssl.fastly.net * allow
 www.spotify.com d2c87l0yth4zbw.global.ssl.fastly.net * allow
 www.spotify.com spotify.com * allow
+www.stroh.at stroh.at * allow
 www.subs.at subs.at * allow
 www.symantec.com symantec.com * allow
 www.sysadminslife.com sysadminslife.com * allow
@@ -580,21 +592,28 @@ www.twitch.tv twitch.tv * allow
 www.ubuntu.com ubuntu.com * allow
 www.underground-server.eu underground-server.eu * allow
 www.unixe.de unixe.de * allow
+www.upc.at upc.at * allow
 www.vice.com video-images.vice.com * allow
 www.videolan.org videolan.org * allow
 www.vmware.com vmware.com * allow
 www.vodafone.de vodafone.de * allow
 www.weitgasser.at parastorage.com * allow
+www.westfalia-versand.at footprint.net * allow
 www.wetter.at wetter.at * allow
 www.willhaben.at here.com * allow
 www.willhaben.at https://cache.willhaben.at/clientscript/iad/advertbuttons_2.js script block
 www.willhaben.at willhaben.at * allow
 www.wirelesshack.org wirelesshack.org * allow
 www.wko.at wko.at * allow
+www.wogibtswas.at wogibtswas.at * allow
 www.wowza.com wowza.com * allow
 www.xing.com xing.com * allow
 www.yahoo.com yahoo.com * allow
 www.yahoo.com yimg.com * allow
+www.youtube.com doubleclick.net * block
+www.youtube.com googleadservices.com * block
+www.youtube.com i.ytimg.com * allow
+www.youtube.com s.youtube.com * block
 www.zalando.at nanorep.com * allow
 www.zalando.at zalando.at * allow
 www.zalando.at ztat.net * allow

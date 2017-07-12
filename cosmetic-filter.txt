@@ -4,13 +4,17 @@
 [Adblock]
 ###bannerzone
 ##.adsbygoogle
+/piwik.php
 /trans_pixel.aspx?
 9gag.com###sidebar
+androidfilehost.com##.row:nth-of-type(3) > .col-md-4 > p
 blogs.cisco.com###sidebar
 community.spiceworks.com##.community-content-banner
+derstandard.at##.theme-panorama.featureColBg
 dmm.travel###ad-leaderboard
 dmm.travel###ad-skyscraper
 dmm.travel##.right-ad
+doodle.com###d-cookiesWarning
 download.cnet.com###download-fd-leaderboard-ad-top
 download.cnet.com###download-leaderboard-ad-bottom
 drivers.softpedia.com###_wlts_lead
@@ -22,8 +26,13 @@ edition.cnn.com###intl_homepage1-zone-4
 fahrplan.oebb.at###HFSResult > div:nth-of-type(5)
 fahrplan.oebb.at###HFSResult > div:nth-of-type(6)
 filehippo.com##.ad-unit-label
+filehippo.com##.download-confirmation-text
 filehippo.com##.home-right-col
 filehippo.com##.middle-column-leaderboard-ad-container
+forum.xda-developers.com###\35 94ce01342385
+forum.xda-developers.com###\35 94ce024ae4a2
+forum.xda-developers.com###\35 94ce03515780
+forum.xda-developers.com###block_message_wrapper
 forum.xda-developers.com###xdadepot-container
 forum.xda-developers.com##.oneplus-banner
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -41,6 +50,7 @@ kurier.at##.maincontainer > .grid-partition:nth-of-type(1) > .grid-block:nth-of-
 libreelec.tv##.s2.sidebar
 mokeedev.com##.adsbygoogle
 monitoring-portal.org##.pageNavigation
+msdn.microsoft.com###ux-banner
 news.filehippo.com##.insert
 news.filehippo.com##.missed
 news.filehippo.com##.right_col.right.sidebar
@@ -73,6 +83,7 @@ t3n.de##.tg-stage-ressort-mobilitaet.c-section > .c-section__body > .-distribute
 t3n.de##.tg-stage-ressort-software-infrastruktur.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
 t3n.de##.tg-stage-ressort-startups.c-section > .c-section__body > .-distribute.o-grid > .tg-sidebar.o-grid__sidebar
 t3n.de##.tg-stage-sponsoredcontent.c-stage
+trakt.tv###huckster-desktop-wrapper
 trakt.tv##.huckster-vip-info
 web.de###adRectangleBottom
 web.de###promoline
@@ -113,6 +124,8 @@ www.computerbild.de##.active.ng-isolate-scope.coop.teaserblock
 www.computerbild.de##.doppel_artikel.teaser_rr
 www.der-postillon.com###sidebar
 www.deskmodder.de###text-18
+www.deskmodder.de###text-20
+www.digital-eliteboard.com##.header.samBannerUnit
 www.drwindows.de##center
 www.ebay.de##.browse-link--single-image
 www.ebay.it##.beta-placement
@@ -131,6 +144,7 @@ www.facebook.com##._4-u8._268y.cardRightCol._5v6e._4-u2
 www.facebook.com##._4ejc
 www.facebook.com##._4oes
 www.facebook.com##.s_1cxalzl477.pagelet.ego_column
+www.fh-ooe.at###compliancecookie
 www.futurezone.de##.ad--marker
 www.gamestar.de##.elemCont:nth-of-type(11)
 www.gamestar.de##.elemCont:nth-of-type(12)
@@ -187,6 +201,7 @@ www.heise.de##.teaser_deal_des_tages
 www.heise.de##.teaser_hbs
 www.heute.at###pos_Skyscraper_links
 www.heute.at###pos_Skyscraper_rechts
+www.howtogeek.com###xwswznycksuacxy
 www.huffingtonpost.de###all_sponsored_posts
 www.huffingtonpost.de##.ad_spot
 www.huffingtonpost.de##.center.margin_10_0
@@ -198,6 +213,7 @@ www.luckydevil.at###bsa-block-336--280 > .bsaProHeader > .bsaProHeader__title > 
 www.luckydevil.at##.bsaProHeader
 www.luckydevil.at##.bsaProHeader__formUrl
 www.luckydevil.at##.bsaProItemInner
+www.majorgeeks.com##.content > b
 www.merkur.de###id-js-DocumentDetail > .id-Article-body > .p402_premium > .id-Article-content-item:nth-of-type(4)
 www.merkur.de##.id-Article-content-item:nth-of-type(34)
 www.merkur.de##.id-CookieConsent
@@ -213,6 +229,15 @@ www.nachrichten.at##.cc_container--open.cc_container.cc_banner
 www.nachrichten.at##.sp4-middle.sp4
 www.needrom.com###cookie_needrom
 www.needrom.com##.bigright1
+www.netzwelt.de###na_sidebar_1
+www.netzwelt.de###rectangle_sidebar
+www.netzwelt.de###socialbar-fixed-wrapper
+www.netzwelt.de##.adsbygoogle
+www.netzwelt.de##.b-0.zi-50.pos-f.cookie-choice
+www.netzwelt.de##.cl-ap.fs-s.ml--10.mb-20.mr--10.mt--10.nop
+www.netzwelt.de##.cl-ap.mt-m-20.mt-40.mb-20.ml-m-10.mr-m-10.mr-70.ml-70:nth-of-type(4)
+www.netzwelt.de##.cl-b.w-t-50.ta-r.p-10.f-l.w-50
+www.netzwelt.de##.nop
 www.news.at##.box
 www.oe24.at###oesterreichTabbedBox > .pushDownSidebar.sidebar
 www.oe24.at##.logoArea

@@ -1,4 +1,3 @@
-
 no-strict-blocking: ads-blocker.com true
 no-strict-blocking: login.gearbest.com true
 no-strict-blocking: user.gearbest.com true
@@ -23,9 +22,15 @@ no-strict-blocking: www.gearbest.com true
 * gekko.spiceworks.com * block
 * gstatic.com * allow
 * hello.myfonts.net * allow
+* http://js.chefkoch-cdn.de/js/dist * block
+* http://jwpltx.com/v1/jwplayer6/ping.gif * block
 * http://www.google.com/recaptcha script allow
 * https://aax-eu.amazon-adsystem.com * block
 * https://ad.doubleclick.net image block
+* https://derstandard.at/AdServer * block
+* https://derstandard.at/MetaAdServer * block
+* https://js.chefkoch-cdn.de/js/dist * block
+* https://web-t.9gag.com/piwik.php * block
 * https://www.google.com/images/cleardot.gif image block
 * https://www.google.com/recaptcha script allow
 * https://www.google.com/recaptcha sub_frame allow
@@ -42,6 +47,7 @@ no-strict-blocking: www.gearbest.com true
 127.0.0.1 * * allow
 9gag.com 9cache.com * allow
 9gag.com 9gag.com * allow
+9gag.com https://js-webt-lol.9cache.com script block
 account.golem.de cpxl.golem.de * block
 account.golem.de golem.de * allow
 account.nvidia.com nvidia.com * allow
@@ -50,6 +56,9 @@ account.xiaomi.com * inline-script allow
 account.xiaomi.com google.at * allow
 accounts.google.com gstatic.com * allow
 aceinsight.websense.com websense.com * allow
+adblockplus.org googlevideo.com * allow
+adblockplus.org youtube-nocookie.com * allow
+adblockplus.org ytimg.com * allow
 ads-blocker.com ads-blocker.com * allow
 answers.microsoft.com microsoft.com * allow
 at.linkedin.com licdn.com * allow
@@ -167,6 +176,7 @@ lineageos.org lineageos.org * allow
 lineageos.org maxcdn.bootstrapcdn.com * allow
 mail.google.com google.com * allow
 mail.google.com gstatic.com * allow
+mamasmeal.de sso-service.de * allow
 mark0.net mark0.net * allow
 microsoft.com https://c.microsoft.com * block
 microsoft.com https://c1.microsoft.com image block
@@ -174,6 +184,7 @@ microsoft.com https://c1.microsoft.com/c.gif inline-script block
 microsoft.com https://c1.microsoft.com/c.gif sub_frame block
 microsoft.com https://i1.social.s-msft.com/globalresources image block
 microsoft.com https://web.vortex.data.microsoft.com image block
+msdn.microsoft.com s-msft.com * allow
 my.kaspersky.com kaspersky.com * allow
 naruto-tube.org ani-stream.com * allow
 naruto-tube.org jwpcdn.com * allow
@@ -187,6 +198,7 @@ news.filehippo.com * inline-script allow
 news.filehippo.com technews.wpengine.netdna-cdn.com * allow
 nextcloud.com nextcloud.com * allow
 oe3dabei.orf.at orf.at * allow
+oetker.at msecnd.net * allow
 onedrive.live.com akamaihd.net * allow
 onepiece-tube.com ani-stream.com * allow
 onepiece-tube.com jwpcdn.com * allow
@@ -198,6 +210,7 @@ oneplus.net opstatics.com * allow
 opengapps.org gstatic.com * allow
 opengapps.org opengapps.org * allow
 opengapps.org storage.googleapis.com * allow
+orf.at http://orf.at/mojo/1_3/storyserver//news/news/images/flags/flag.festwochen17.ticker.2x.png image allow
 ottakringerbrauerei.at ottakringerbrauerei.at * allow
 outlook.live.com live.com * allow
 owncloud.org owncloud.org * allow
@@ -322,6 +335,14 @@ www.cert.at cert.at * allow
 www.change.org * image allow
 www.change.org change.org * allow
 www.checkpoint.com checkpoint.com * allow
+www.chefkoch.de chefkoch-cdn.de * allow
+www.chefkoch.de chefkoch.de * allow
+www.chefkoch.de http://img.chefkoch-cdn.de/gujAd.min.css stylesheet block
+www.chefkoch.de http://img.chefkoch-cdn.de/gujAd.min.js script block
+www.chefkoch.de http://www.chefkoch.de/ck.de/cms-uploods/ad_bomb * block
+www.chefkoch.de http://www.chefkoch.de/tracking * block
+www.chefkoch.de https://img.chefkoch-cdn.de/gujAd.min.css stylesheet block
+www.chefkoch.de https://img.chefkoch-cdn.de/gujAd.min.js script block
 www.chip.de * image allow
 www.chip.de chip.de * allow
 www.cineplexx.at * 1p-script allow
@@ -351,6 +372,9 @@ www.deskmodder.de deskmodder.de * allow
 www.deskmodder.de https://www.deskmodder.de/statistiken_dm script block
 www.deskmodder.de www.deskmodder.de * allow
 www.dict.cc dict.cc * allow
+www.digital-eliteboard.com digital-eliteboard.com * allow
+www.digital-eliteboard.com google.com * allow
+www.digital-eliteboard.com kxcdn.com * allow
 www.dm-drogeriemarkt.at dm-drogeriemarkt.at * allow
 www.douglas.at douglas-shop.com * allow
 www.douglas.at douglas.at * allow
@@ -453,12 +477,14 @@ www.imdb.com imdb.com * allow
 www.impericon.com impericon.com * allow
 www.impericon.com ipinfodb.com * allow
 www.ingamers.com ingamers.com * allow
+www.instagram.com instagram.com * allow
 www.intersport.at intersport.at * allow
 www.iobit.com iobit.com * allow
 www.itmagazine.ch itmagazine.ch * allow
 www.joomla.de joomla.de * allow
 www.joomla.de joomladay.de * allow
 www.karriere.at kcdn.at * allow
+www.kaspersky.com https://media.kaspersky.com/tracking * block
 www.kaspersky.com kaspersky.com * allow
 www.kfc.co.at kfc.co.at * allow
 www.kickstarter.com kickstarter.com * allow
@@ -545,6 +571,10 @@ www.raiffeisen.at raiffeisen.at * allow
 www.raspberrypi.org raspberrypi.org * allow
 www.real.de real-ident.de * allow
 www.real.de real-onlineshop.de * allow
+www.redbulletin.com qzzr.com * allow
+www.redbulletin.com redbull.com * allow
+www.redbulletin.com redbulletin.com * allow
+www.redbulletin.com redbullmediahouse.com * allow
 www.reddit.com redditstatic.com * allow
 www.rockpapershotgun.com rockpapershotgun.com * allow
 www.rtl2.de rtl2.de * allow
@@ -610,6 +640,7 @@ www.wowza.com wowza.com * allow
 www.xing.com xing.com * allow
 www.yahoo.com yahoo.com * allow
 www.yahoo.com yimg.com * allow
+www.youtube.com clients1.google.com * allow
 www.youtube.com doubleclick.net * block
 www.youtube.com googleadservices.com * block
 www.youtube.com i.ytimg.com * allow

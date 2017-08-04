@@ -122,6 +122,7 @@ www.cnet.de##.dfp_word
 www.computerbild.de###sethomepage
 www.computerbild.de##.active.ng-isolate-scope.coop.teaserblock
 www.computerbild.de##.doppel_artikel.teaser_rr
+www.computerbild.de##.staticoverlay
 www.der-postillon.com###sidebar
 www.deskmodder.de###text-18
 www.deskmodder.de###text-20
@@ -214,6 +215,7 @@ www.luckydevil.at##.bsaProHeader
 www.luckydevil.at##.bsaProHeader__formUrl
 www.luckydevil.at##.bsaProItemInner
 www.majorgeeks.com##.content > b
+www.mediafire.com##.warning
 www.merkur.de###id-js-DocumentDetail > .id-Article-body > .p402_premium > .id-Article-content-item:nth-of-type(4)
 www.merkur.de##.id-Article-content-item:nth-of-type(34)
 www.merkur.de##.id-CookieConsent
@@ -260,6 +262,7 @@ www.pcwelt.de##.box:nth-of-type(7)
 www.pcwelt.de##.box:nth-of-type(8)
 www.pcwelt.de##.box:nth-of-type(9)
 www.pcwelt.de##.cc_banner-wrapper
+www.pinterest.de##div:nth-of-type(4) > div:nth-of-type(3)
 www.pocketpc.ch###IK-ad-block
 www.pro-linux.de##.table_title:nth-of-type(7) > .head
 www.pro-linux.de##.table_title:nth-of-type(9) > .head
@@ -304,6 +307,7 @@ www.winboard.org##.above_header
 www.winboard.org##.floatcontainer.textcontrols
 www.winboard.org##.forumfooter
 www.winboard.org##.nointelliTXT.postcontainer.postbitim.postbitlegacy
+www.wintotal.de##.g-9.g
 www.wirelesshack.org###sfp_page_plugin_widget-2
 www.yahoo.com###my-adsLREC-base
 www.yahoo.com###sticky-lrec2-footer

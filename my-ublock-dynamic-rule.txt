@@ -1,3 +1,4 @@
+
 no-strict-blocking: ads-blocker.com true
 no-strict-blocking: login.gearbest.com true
 no-strict-blocking: user.gearbest.com true
@@ -60,7 +61,10 @@ adblockplus.org googlevideo.com * allow
 adblockplus.org youtube-nocookie.com * allow
 adblockplus.org ytimg.com * allow
 ads-blocker.com ads-blocker.com * allow
+answers.microsoft.com c.microsoft.com * block
+answers.microsoft.com c1.microsoft.com * block
 answers.microsoft.com microsoft.com * allow
+answers.microsoft.com web.vortex.data.microsoft.com * block
 at.linkedin.com licdn.com * allow
 at.linkedin.com linkedin.com * allow
 banking.raiffeisen.at info.elba.at * allow
@@ -68,6 +72,7 @@ behind-the-scene * 3p noop
 behind-the-scene * 3p-frame noop
 blog.adduplex.com adduplex.com * allow
 blogs.cisco.com cisco.com * allow
+blogs.technet.microsoft.com https://blogs.technet.microsoft.com xmlhttprequest block
 blogs.vmware.com shrinktheweb.com * allow
 blogs.vmware.com vmware.com * allow
 blogs.vmware.com vmwareblogs.com * allow
@@ -156,6 +161,7 @@ gearbest.com login.gearbest.com * allow
 gearbest.com user.gearbest.com * allow
 geizhals.at geizhals.at * allow
 geizhals.at gzhls.at * allow
+geizhals.de gzhls.at * allow
 github.com github.com * allow
 github.com render.githubusercontent.com * allow
 grillen.merkurmarkt.at merkurmarkt.at * allow
@@ -331,6 +337,7 @@ www.bullguard.com bullguard.com * allow
 www.bundlestars.com bundlestars.com * allow
 www.c-and-a.com adobedtm.com * allow
 www.c-and-a.com c-and-a.com * allow
+www.canon.at canon.at * allow
 www.cert.at cert.at * allow
 www.change.org * image allow
 www.change.org change.org * allow
@@ -473,6 +480,7 @@ www.humblebundle.com akamaihd.net * allow
 www.humblebundle.com humblebundle.com * allow
 www.icinga.com icinga.com * allow
 www.ikea.com ikea.com * allow
+www.ilteatro.at ilteatro.at * allow
 www.imdb.com imdb.com * allow
 www.impericon.com impericon.com * allow
 www.impericon.com ipinfodb.com * allow
@@ -508,6 +516,7 @@ www.mediamarkt.at appdynamics.com * allow
 www.mediamarkt.at mediamarkt.at * allow
 www.mediamarkt.at ms-daten.at * allow
 www.mediamarkt.at redblue.de * allow
+www.mediamarkt.de redblue.de * allow
 www.meinbezirk.at meinbezirk.at * allow
 www.menshealth.de menshealth.de * allow
 www.merkur.de idcdn.de * allow
@@ -559,6 +568,8 @@ www.pearl.at pearl.at * allow
 www.peek-cloppenburg.at fidcdn.net * allow
 www.penny.at penny.at * allow
 www.phonearena.com phonearena.com * allow
+www.pinterest.de pinimg.com * allow
+www.pinterest.de pinterest.de * allow
 www.piriform.com piriform.com * allow
 www.pluscity.at pluscity.at * allow
 www.pocketpc.ch pocketpc.ch * allow
@@ -595,6 +606,7 @@ www.sport2000.at sport2000.at * allow
 www.spotify.com d2c87l0yth4zbw-2.global.ssl.fastly.net * allow
 www.spotify.com d2c87l0yth4zbw.global.ssl.fastly.net * allow
 www.spotify.com spotify.com * allow
+www.storagecraft.com storagecraft.com * allow
 www.stroh.at stroh.at * allow
 www.subs.at subs.at * allow
 www.symantec.com symantec.com * allow

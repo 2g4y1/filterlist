@@ -1,15 +1,28 @@
-!Fehler bitte hier melden https://github.com/2g4y1/filterlist/issues
-!Kosmetische Filterliste für uBlock Origin
-!Liste erstellt 20:05 21.03.2017
 [Adblock]
 ###bannerzone
 ##.adsbygoogle
 /piwik.php
 /trans_pixel.aspx?
+10.70.0.17##.analyticsHover:nth-of-type(12)
+10.70.0.17##.analyticsHover:nth-of-type(13)
 9gag.com###sidebar
 androidfilehost.com##.row:nth-of-type(3) > .col-md-4 > p
+arksurvivalevolved.zone##.dialogContainer
+beta.doodle.com##.d-alertContainer
+beta.doodle.com##.d-skyScraperLeftAdContainer
+beta.doodle.com##.d-skyScraperRightAdContainer
+bitcointalk.org##.afSViPdOyhPNaEczxucDQg
+bitcointalk.org##.CQGeRVkGawVktFhDqybHIg
+bitcointalk.org##.xadxSxufdrJWCOedqbZwYw
 blogs.cisco.com###sidebar
+comicbook.com##.adhesion-block
+comicbook.com##.adInContent
+comicbook.com##.large.oas.ad_blk
+comicbook.com##.oas_Section1.oas_desktop_banner
 community.spiceworks.com##.community-content-banner
+derstandard.at###content-aside
+derstandard.at###weiterLesen
+derstandard.at###weiterLesenScroll
 derstandard.at##.theme-panorama.featureColBg
 dmm.travel###ad-leaderboard
 dmm.travel###ad-skyscraper
@@ -17,6 +30,8 @@ dmm.travel##.right-ad
 doodle.com###d-cookiesWarning
 download.cnet.com###download-fd-leaderboard-ad-top
 download.cnet.com###download-leaderboard-ad-bottom
+dragonball-tube.com###contenttb > table > tbody > tr:nth-of-type(1) > td
+dragonball-tube.com##.module
 drivers.softpedia.com###_wlts_lead
 drivers.softpedia.com##.adsbygoogle
 drivers.softpedia.com##.brd-1-grey1.mgtop_20.grid_48
@@ -39,6 +54,8 @@ forum.xda-developers.com##.xda-box.postbit-wrapper
 futurism.com##.share.module
 futurism.com##.subscribe-form.center
 geizhals.at###gh_blah
+genealogic.review##.rowcenter.hidden-sm.hidden-xs.row
+genealogic.review##div.col-lg-6.col-md-6.col-sm-12.col-xs-12
 jdownloader.org##hr
 kodi.tv###text-8
 kodi.tv##.wp_social_bookmarking_light
@@ -51,6 +68,7 @@ libreelec.tv##.s2.sidebar
 mokeedev.com##.adsbygoogle
 monitoring-portal.org##.pageNavigation
 msdn.microsoft.com###ux-banner
+myanimelist.net##.banner-header-anime-straming
 news.filehippo.com##.insert
 news.filehippo.com##.missed
 news.filehippo.com##.right_col.right.sidebar
@@ -105,6 +123,8 @@ www.allkeyshop.com###box-linkleft
 www.allkeyshop.com###box-linkright
 www.allkeyshop.com##.getsocial
 www.amazon.de###desktop-ad-atf
+www.amazon.de###nav-swmslot
+www.amazon.de##.a-col-right.sidebar.a-fixed-right-grid-col
 www.androguider.com##.adsbygoogle
 www.androguider.com##.sidebar-wrapper
 www.androidfilehost.com##.col-md-4:nth-of-type(4) > .panel-default.panel
@@ -112,13 +132,20 @@ www.androidfilehost.com##.container:nth-of-type(4)
 www.androidfilehost.com##.responsiveMargin.col-md-4
 www.borncity.com###colophon
 www.borncity.com###primary
+www.chip.de##.hrloinpjmk-2002-5aaeb2b618fb3
+www.chip.de##.is-emphasized.Dialog--Top.Dialog > .fb
 www.chip.de##.mt-md.NewsArticle__HeadImage
+www.chip.de##.mt-md.NewsArticle__Widget
 www.chip.de##.paidlisting-body
 www.chip.de##.SkinLight.Section:nth-of-type(2) > .Grid__Container.Section__Content
 www.chip.de##.videoplayer
 www.cnet.de###div-gpt-ad-DESKTOP_MEGA-1
 www.cnet.de###div-gpt-ad-DESKTOP_MPU-1
 www.cnet.de##.dfp_word
+www.coinwarz.com###bg1
+www.coinwarz.com###bg2
+www.coinwarz.com##.antiSkin.container > div:nth-of-type(1)
+www.coinwarz.com##.window
 www.computerbild.de###sethomepage
 www.computerbild.de##.active.ng-isolate-scope.coop.teaserblock
 www.computerbild.de##.doppel_artikel.teaser_rr
@@ -137,6 +164,7 @@ www.elitepvpers.com##center
 www.eporner.com###btasd
 www.eporner.com###cookies
 www.eporner.com##.vjs-inplayer-container
+www.experts-exchange.com##.bg2.interceptBackgroundBlocker.interceptContainer
 www.facebook.com###pagelet_canvas_nav_content
 www.facebook.com###pagelet_ego_pane
 www.facebook.com##._1wcc
@@ -146,7 +174,10 @@ www.facebook.com##._4ejc
 www.facebook.com##._4oes
 www.facebook.com##.s_1cxalzl477.pagelet.ego_column
 www.fh-ooe.at###compliancecookie
+www.focus.de##.inner
+www.focus.de##.ps-trackingposition_Fazitkasten.ps-tracking-position.textFazit
 www.futurezone.de##.ad--marker
+www.gamespot.com##.js-pop-over-parent
 www.gamestar.de##.elemCont:nth-of-type(11)
 www.gamestar.de##.elemCont:nth-of-type(12)
 www.gamestar.de##.elemCont:nth-of-type(6)
@@ -163,9 +194,14 @@ www.gewinnspielsammlung.at##tr:nth-of-type(14)
 www.gewinnspielsammlung.at##tr:nth-of-type(15)
 www.gewinnspielsammlung.at##tr:nth-of-type(16)
 www.gewinnspielsammlung.at##tr:nth-of-type(18)
+www.gewinnspielsammlung.at##tr:nth-of-type(20) > td
 www.gewinnspielsammlung.at##tr:nth-of-type(6)
+www.gewinnspielsammlung.at##tr:nth-of-type(7)
 www.gewinnspielsammlung.at##tr:nth-of-type(8)
 www.gewinnspielverzeichnis.at##.page-body > div > .list-group > .list > .element:nth-of-type(7)
+www.giga.de###G26Zhwc1wmMM
+www.giga.de###nU5N5MsjCas0
+www.giga.de###pAC51hLY4SMe
 www.gmx.at###adRectangleBottom
 www.gmx.at###footer-bubble
 www.gmx.at###footer-sep-line
@@ -181,11 +217,24 @@ www.goabase.net##.over-hidden.clearfix.padding-def.margin-bt2.topline2.infobox
 www.goabase.net##.over-hidden.clearfix.padding-def.topline2.content.menublock
 www.goabase.net##.topline2.over-hidden.clearfix.padding-fat.infobox
 www.golem.de###iqadtile4
+www.golem.de###iUoCWMoV
+www.golem.de###kgEYVHq
+www.golem.de###PhFRUeQf
+www.golem.de###yMDqbNQuzd
 www.golem.de##.adsbygoogle
+www.golem.de##.bpNssWdlY
 www.golem.de##.iqadlinebottom
+www.golem.de##.lNNHhm
+www.golem.de##.LtcxLYR
+www.golem.de##.sp-article
+www.golem.de##.sp-breakout
 www.golem.de##.supplementary
+www.golem.de##.TJLOXnLJ
+www.golem.de##div.g2.g:nth-of-type(2)
+www.golem.de##div.g6.g:nth-of-type(12) > div:nth-of-type(1)
 www.google.at###taw
 www.google.at##.ads-ad
+www.grouppolicy.biz##.spu-timer
 www.gsmarena.com###subHeader
 www.gutefrage.net###async_teaser_block_sidebar
 www.gutefrage.net##.Adsense__styleFrame2.Adsense
@@ -210,6 +259,7 @@ www.huffingtonpost.de##.likegate-overlay-hp
 www.itmagazine.ch##.news_rectangle
 www.kinonews.de##.moduletable_banner
 www.krone.at##.c_sis_facebook_fancontainer_2x6 > .c_outer
+www.lineageoslog.com##.m-b-xs
 www.luckydevil.at###bsa-block-336--280 > .bsaProHeader > .bsaProHeader__title > span
 www.luckydevil.at##.bsaProHeader
 www.luckydevil.at##.bsaProHeader__formUrl
@@ -272,6 +322,7 @@ www.quora.com##.PromptsList
 www.scdkey.com##.web-face-i.web-data
 www.scdkey.com##.web-pa.web-data
 www.soeren-hentzschel.at##.tnemesitrevda
+www.speedtest.net##.alert-container
 www.spieletipps.de##.stiPerformance
 www.sysadminslife.com###text-3
 www.sysadminslife.com###text-7
@@ -283,6 +334,7 @@ www.taz.de##.sectfoot
 www.techstage.de##.clearfix.adbottom
 www.techstage.de##.clearfix.rectangle_ad
 www.techstage.de##.rectangle_ad
+www.theverge.com###privacy-consent
 www.tips.at###sidebar > .banner
 www.tips.at##.mobile_banner_hide:nth-of-type(4)
 www.trademind.de###uJ_DRQAWO9iMbD52 > .old.postcontainer.postbitim.postbitlegacy
@@ -320,3 +372,6 @@ www.zdnet.de##.desktop.dfp_ad
 xiaomi.eu##.hiddenResponsiveNarrow
 xiaomi.eu##.sharePage.infoBlock.section
 ||ad.doubleclick.net$image
+||https://www.golem.de/*/sp_*i_rc.jpg$subdocument
+||www.golem.de/*/sp_*_rc.jpg$subdocument
+||www.majorgeeks.com/images/icons/red_icon_18x17px.png$image
